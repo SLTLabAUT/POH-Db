@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ink xmlns="http://www.w3.org/2003/InkML" documentID="1573">
+  <definitions>
+    <mapping xml:id="m1-fix3" type="mathml">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <apply>
+          <divide />
+          <apply>
+            <ceiling />
+            <apply>
+              <minus />
+              <apply>
+                <times />
+                <ci>v</ci>
+                <cn>1000</cn>
+              </apply>
+              <cn>0.5</cn>
+            </apply>
+          </apply>
+          <cn>1000</cn>
+        </apply>
+      </math>
+    </mapping>
+    <mapping xml:id="m2-fix5" type="mathml">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <apply>
+          <divide />
+          <apply>
+            <ceiling />
+            <apply>
+              <minus />
+              <apply>
+                <times />
+                <ci>v</ci>
+                <cn>100000</cn>
+              </apply>
+              <cn>0.5</cn>
+            </apply>
+          </apply>
+          <cn>100000</cn>
+        </apply>
+      </math>
+    </mapping>
+    <timestamp xml:id="ts1" time="1616060000000" />
+    <traceFormat xml:id="tf1">
+      <channel name="X" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="X" />
+          <bind source="X" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="Y" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="Y" />
+          <bind source="Y" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="F" default="0.5" min="0" max="1" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="F" />
+          <bind source="F" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="T" min="0" respectTo="#ts1" units="ms">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="T" />
+          <bind source="T" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="TangentialF" min="-1" max="1" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="TangentialF" />
+          <bind source="TangentialF" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="BW" default="1" units="dev">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="BW" />
+          <bind source="BW" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="BH" default="1" units="dev">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="BH" />
+          <bind source="BH" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OTx" min="-90" max="90" units="deg">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="OTx" />
+          <bind source="OTx" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OTy" min="-90" max="90" units="deg">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="OTy" />
+          <bind source="OTy" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OR" type="integer" min="0" max="359" units="deg" />
+    </traceFormat>
+    <canvas xml:id="c1" traceFormatRef="#tf1" />
+    <context xml:id="ctx1" canvasRef="#c1" traceFormatRef="#tf1" timestampRef="#ts1" />
+  </definitions>
+  <annotationXML>
+    <writerId xmlns="">urn:uuid:967c82a2-f919-439e-87e5-f64eeaaea44a</writerId>
+    <input xmlns="">Pen</input>
+    <type xmlns="">Text</type>
+    <hand xmlns="">Right</hand>
+    <truthId xmlns="">196</truthId>
+  </annotationXML>
+  <traceGroup contextRef="ctx1"></traceGroup>
+</ink>

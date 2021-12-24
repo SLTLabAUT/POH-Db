@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ink xmlns="http://www.w3.org/2003/InkML" documentID="36">
+  <definitions>
+    <mapping xml:id="m1-fix3" type="mathml">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <apply>
+          <divide />
+          <apply>
+            <ceiling />
+            <apply>
+              <minus />
+              <apply>
+                <times />
+                <ci>v</ci>
+                <cn>1000</cn>
+              </apply>
+              <cn>0.5</cn>
+            </apply>
+          </apply>
+          <cn>1000</cn>
+        </apply>
+      </math>
+    </mapping>
+    <mapping xml:id="m2-fix5" type="mathml">
+      <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <apply>
+          <divide />
+          <apply>
+            <ceiling />
+            <apply>
+              <minus />
+              <apply>
+                <times />
+                <ci>v</ci>
+                <cn>100000</cn>
+              </apply>
+              <cn>0.5</cn>
+            </apply>
+          </apply>
+          <cn>100000</cn>
+        </apply>
+      </math>
+    </mapping>
+    <timestamp xml:id="ts1" time="1622305085180" />
+    <traceFormat xml:id="tf1">
+      <channel name="X" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="X" />
+          <bind source="X" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="Y" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="Y" />
+          <bind source="Y" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="F" default="0.5" min="0" max="1" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="F" />
+          <bind source="F" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="T" min="0" respectTo="#ts1" units="ms">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="T" />
+          <bind source="T" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="TangentialF" min="-1" max="1" units="dev">
+        <mapping type="mathml" mappingRef="#m2-fix5">
+          <bind target="TangentialF" />
+          <bind source="TangentialF" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="BW" default="1" units="dev">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="BW" />
+          <bind source="BW" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="BH" default="1" units="dev">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="BH" />
+          <bind source="BH" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OTx" min="-90" max="90" units="deg">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="OTx" />
+          <bind source="OTx" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OTy" min="-90" max="90" units="deg">
+        <mapping type="mathml" mappingRef="#m1-fix3">
+          <bind target="OTy" />
+          <bind source="OTy" variable="v" />
+        </mapping>
+      </channel>
+      <channel name="OR" type="integer" min="0" max="359" units="deg" />
+    </traceFormat>
+    <canvas xml:id="c1" traceFormatRef="#tf1" />
+    <context xml:id="ctx1" canvasRef="#c1" traceFormatRef="#tf1" timestampRef="#ts1" />
+  </definitions>
+  <annotationXML>
+    <writerId xmlns="">urn:uuid:92bacc45-ecd3-4cb5-9f16-9b8c176cc3a2</writerId>
+    <input xmlns="">Mouse</input>
+    <type xmlns="">WordGroup</type>
+    <hand xmlns="">Right</hand>
+    <truthId xmlns="">42854</truthId>
+  </annotationXML>
+  <traceGroup contextRef="ctx1">
+    <trace xml:id="t0" timeOffset="0">727 109 0.5 0 0 1 1 0 0 0, 727 110 0.5 63 0 1 1 0 0 0, 727 113 0.5 93 0 1 1 0 0 0, 726 119 0.5 93 0 1 1 0 0 0, 719 159 0.5 109 0 1 1 0 0 0, 715 174 0.5 141 0 1 1 0 0 0, 715 176 0.5 141 0 1 1 0 0 0, 715 179 0.5 171 0 1 1 0 0 0, 715 182 0.5 187 0 1 1 0 0 0, 715 184 0.5 202 0 1 1 0 0 0, 715 186 0.5 219 0 1 1 0 0 0, 715 186 0.5 390 0 1 1 0 0 0, 715 186 0 406 0 1 1 0 0 0</trace>
+    <trace xml:id="t13" timeOffset="1374">699 159 0.5 0 0 1 1 0 0 0, 699 160 0.5 189 0 1 1 0 0 0, 695 166 0.5 189 0 1 1 0 0 0, 690 179 0.5 203 0 1 1 0 0 0, 668 205 0.5 220 0 1 1 0 0 0, 651 223 0.5 251 0 1 1 0 0 0, 643 233 0.5 251 0 1 1 0 0 0, 632 240 0.5 281 0 1 1 0 0 0, 627 240 0.5 297 0 1 1 0 0 0, 623 240 0.5 313 0 1 1 0 0 0, 619 240 0.5 329 0 1 1 0 0 0, 617 240 0.5 344 0 1 1 0 0 0, 615 240 0.5 376 0 1 1 0 0 0, 613 240 0.5 392 0 1 1 0 0 0, 612 240 0.5 422 0 1 1 0 0 0, 613 240 0.5 564 0 1 1 0 0 0, 615 240 0.5 579 0 1 1 0 0 0, 615 240 0 594 0 1 1 0 0 0</trace>
+    <trace xml:id="t31" timeOffset="3125">687 129 0.5 0 0 1 1 0 0 0, 688 129 0.5 188 0 1 1 0 0 0, 689 129 0.5 203 0 1 1 0 0 0, 689 130 0.5 234 0 1 1 0 0 0, 689 131 0.5 266 0 1 1 0 0 0, 689 132 0.5 266 0 1 1 0 0 0, 688 132 0.5 296 0 1 1 0 0 0, 686 132 0.5 313 0 1 1 0 0 0, 685 132 0.5 327 0 1 1 0 0 0, 683 130 0.5 343 0 1 1 0 0 0, 683 128 0.5 359 0 1 1 0 0 0, 683 127 0.5 375 0 1 1 0 0 0, 683 126 0.5 406 0 1 1 0 0 0, 684 125 0.5 422 0 1 1 0 0 0, 686 125 0.5 437 0 1 1 0 0 0, 687 125 0.5 469 0 1 1 0 0 0, 687 125 0.5 483 0 1 1 0 0 0, 688 125 0.5 500 0 1 1 0 0 0, 688 126 0.5 547 0 1 1 0 0 0, 688 126 0.5 577 0 1 1 0 0 0, 688 127 0.5 609 0 1 1 0 0 0, 688 128 0.5 656 0 1 1 0 0 0, 688 128 0 733 0 1 1 0 0 0</trace>
+  </traceGroup>
+</ink>
