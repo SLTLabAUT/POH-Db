@@ -16,7 +16,7 @@ To contribute to the collection web app, you can consider creating PRs for the [
 The folder structure of the dataset is as follow:
 - GroundTruths
 - Writepads
-- Authors
+- Writers
 
 ### Ground Truths
 We have used selected phrases from Bijankhan's corpus and Farsi Wikipedia as the ground truths. They are chosen in such a way that has a normal distribution in terms of word counts and includes most of the three consecutive characters in Persian. These ground truths consist of the Persian alphabet and punctuations, but there are no numbers in this version.
@@ -57,14 +57,14 @@ Sign writepads are not publicly available and are only accessible for official a
 
 ![Writepad - InkML](https://github.com/SLTLabAUT/POH-Db/blob/main/assets/Writepad%20-%20InkML.png)
 
-### Authors
-Authors' metadata are also saved in a simple [XML](https://w3.org/XML/) format. It contains the following properties:
+### Writers
+Writers' metadata are also saved in a simple [XML](https://w3.org/XML/) format. It contains the following properties:
 - Sex
 - Handedness
 - Education
 - Birth Year
 
-![Author - XML](https://github.com/SLTLabAUT/POH-Db/blob/main/assets/Author%20-%20XML.png)
+![Writer - XML](https://github.com/SLTLabAUT/POH-Db/blob/main/assets/Writer%20-%20XML.png)
 
 ### How to Start Using the Dataset
 For now, a simple model named RetardOHR has used the dataset. It uses only X, Y, and Time for feature extraction. Reading its source code would be a good starting point.
