@@ -1,3599 +1,2396 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <textCollection type="WordGroup">
-  <text id="128880">
-    <content>
-      <word>خود</word>
-      <word>مشت‌زن</word>
-      <word>اکبر</word>
-      <word>و</word>
-      <word>خورد</word>
-      <word>کیلوگرم</word>
-      <word>پنجاه</word>
+  <text id="99880">
+    <content>
+      <line>چشم</line>
+      <line>نرسیده</line>
+      <line>به</line>
+      <line>به</line>
+      <line>خیابان</line>
+      <line>می‌خورد.</line>
+      <line>یازدهم،</line>
     </content>
   </text>
-  <text id="128881">
+  <text id="99881">
     <content>
-      <word>روز</word>
-      <word>را</word>
-      <word>قوه</word>
-      <word>اعلام</word>
-      <word>محترم</word>
-      <word>قضاییه،</word>
-      <word>به</word>
-      <word>پرونده</word>
+      <line>دریاچه</line>
+      <line>استان</line>
+      <line>یکی</line>
+      <line>تالاب</line>
+      <line>دریاچه‌های</line>
+      <line>آب</line>
     </content>
   </text>
-  <text id="128882">
+  <text id="99882">
     <content>
-      <word>رفتار</word>
-      <word>قلب</word>
-      <word>حکمت،</word>
-      <word>عصر</word>
-      <word>رویکرد</word>
-      <word>خردمندی</word>
-      <word>آن</word>
-      <word>گفتار،</word>
-    </content>
-  </text>
-  <text id="128883">
-    <content>
-      <word>آرزوهای</word>
-      <word>کشف</word>
-      <word>معطوف</word>
-      <word>این</word>
-      <word>عدالت</word>
-      <word>می‌توان</word>
-      <word>جست‌وجوی</word>
-      <word>از</word>
-      <word>چگونه</word>
-    </content>
-  </text>
-  <text id="128884">
-    <content>
-      <word>در</word>
-      <word>قبیل</word>
-      <word>است</word>
-      <word>دیرین</word>
-      <word>تحقق</word>
-      <word>در</word>
-      <word>و</word>
-      <word>پوشانید.</word>
-      <word>حقیقت،</word>
-    </content>
-  </text>
-  <text id="128885">
-    <content>
-      <word>روس‌ها</word>
-      <word>ساکنان</word>
-      <word>امن</word>
-      <word>با</word>
-      <word>از</word>
-      <word>دالان</word>
-      <word>گروزنی</word>
-    </content>
-  </text>
-  <text id="128886">
-    <content>
-      <word>از</word>
-      <word>این</word>
-      <word>آغاز</word>
-      <word>شد.</word>
-      <word>شهر</word>
-      <word>خروج</word>
-      <word>استفاده</word>
-    </content>
-  </text>
-  <text id="128887">
-    <content>
-      <word>بود</word>
-      <word>آمد</word>
-      <word>معارف</word>
-      <word>به</word>
-      <word>ما</word>
-      <word>و</word>
-      <word>مهمان</word>
-      <word>عالی‌رتبه</word>
-    </content>
-  </text>
-  <text id="128888">
-    <content>
-      <word>روحی</word>
-      <word>داشت</word>
-      <word>پاریز</word>
-      <word>از</word>
-      <word>همراه</word>
-      <word>که</word>
-      <word>کلاه</word>
-    </content>
-  </text>
-  <text id="128889">
-    <content>
-      <word>تمام‌لبه</word>
-      <word>یک</word>
-      <word>و</word>
-      <word>افضل</word>
-      <word>کرمان</word>
-      <word>کارمندان</word>
-      <word>شد.</word>
-    </content>
-  </text>
-  <text id="128890">
-    <content>
-      <word>مزایای</word>
-      <word>الکترود</word>
-      <word>مغزی</word>
-      <word>از</word>
-      <word>فلز</word>
-      <word>به</word>
-      <word>به</word>
-      <word>یکی</word>
-    </content>
-  </text>
-  <text id="128891">
-    <content>
-      <word>جوش</word>
-      <word>ترکیبی</word>
-      <word>از</word>
-      <word>مواد</word>
-      <word>روش،</word>
-      <word>نوع</word>
-      <word>منحصربه‌فرد</word>
-      <word>می‌باشد</word>
-    </content>
-  </text>
-  <text id="128892">
-    <content>
-      <word>می‌توان</word>
-      <word>در</word>
-      <word>آورد.</word>
-      <word>جوش</word>
-      <word>این</word>
-      <word>تصحیح</word>
-      <word>هر</word>
-      <word>ترکیب</word>
-    </content>
-  </text>
-  <text id="128893">
-    <content>
-      <word>طریق</word>
-      <word>افزودنی</word>
-      <word>امکان</word>
-      <word>لذا</word>
-      <word>را</word>
-      <word>و</word>
-      <word>فلاکس</word>
-      <word>وجود</word>
-    </content>
-  </text>
-  <text id="128894">
-    <content>
-      <word>ترافیک</word>
-      <word>جانبی</word>
-      <word>مونوریل،</word>
-      <word>مناسب</word>
-      <word>گرفتن</word>
-      <word>کمک</word>
-      <word>آن</word>
-      <word>و</word>
-      <word>می‌تواند</word>
-    </content>
-  </text>
-  <text id="128895">
-    <content>
-      <word>حجم</word>
-      <word>وسیله</word>
-      <word>آلودگی</word>
-      <word>بنماید.</word>
-      <word>هزینه‌های</word>
-      <word>و</word>
-      <word>به</word>
-      <word>به</word>
-      <word>نقلیه‌ای</word>
-    </content>
-  </text>
-  <text id="128896">
-    <content>
-      <word>کاهش</word>
-      <word>ایمن،</word>
-      <word>زیست،</word>
-      <word>پاک</word>
-      <word>محیط</word>
-      <word>آن</word>
-      <word>زیادی</word>
-      <word>کار</word>
-      <word>که</word>
-    </content>
-  </text>
-  <text id="128897">
-    <content>
-      <word>می‌نماید.</word>
-      <word>عرضه</word>
-      <word>کلاً</word>
-      <word>نقش</word>
-      <word>بررسی</word>
-      <word>که</word>
-      <word>جمله</word>
-      <word>شهید</word>
-    </content>
-  </text>
-  <text id="128898">
-    <content>
-      <word>مهم</word>
-      <word>و</word>
-      <word>است</word>
-      <word>اسناد</word>
-      <word>بعد</word>
-      <word>از</word>
-      <word>از</word>
-      <word>متعددی</word>
-    </content>
-  </text>
-  <text id="128899">
-    <content>
-      <word>تحول</word>
-      <word>و</word>
-      <word>قبل</word>
-      <word>روحی‌اش</word>
-      <word>آزادمرد</word>
-      <word>می‌پردازد</word>
-      <word>را</word>
-    </content>
-  </text>
-  <text id="128900">
-    <content>
-      <word>در</word>
-      <word>این</word>
-      <word>حاج‌رضایی</word>
-      <word>کتاب‌ها،</word>
-      <word>به</word>
-      <word>و</word>
-      <word>طیب</word>
-    </content>
-  </text>
-  <text id="128901">
-    <content>
-      <word>کمال</word>
-      <word>تلفنی</word>
-      <word>این</word>
-      <word>خرازی،</word>
-      <word>امور</word>
-      <word>همتای</word>
-      <word>مکالمه</word>
-    </content>
-  </text>
-  <text id="128902">
-    <content>
-      <word>تلویزیونی</word>
-      <word>تلویزیونی</word>
-      <word>پوآرو</word>
-      <word>در</word>
-      <word>از</word>
-      <word>کرد.</word>
-      <word>وی</word>
-    </content>
-  </text>
-  <text id="128903">
-    <content>
-      <word>به</word>
-      <word>داشته</word>
-      <word>نقش</word>
-      <word>اورلاندو</word>
-      <word>است</word>
-      <word>که</word>
-      <word>و</word>
-      <word>مجموعه</word>
-    </content>
-  </text>
-  <text id="128904">
-    <content>
-      <word>خارطوم،</word>
-      <word>می‌توان</word>
-      <word>اشاره</word>
-      <word>برنامه‌های</word>
-      <word>آن</word>
-      <word>مغ،</word>
-      <word>فیلم‌ها</word>
-      <word>یا</word>
-    </content>
+      <line>ارژن،</line>
+      <line>شیرین</line>
+      <line>و</line>
+      <line>از</line>
+      <line>فارس</line>
+      <line>می‌باشد.</line>
+      <line>نام</line>
+    </content>
   </text>
-  <text id="128905">
+  <text id="99883">
     <content>
-      <word>در</word>
-      <word>آزادگان</word>
-      <word>بحث</word>
-      <word>و</word>
-      <word>که</word>
-      <word>واقعی</word>
-      <word>مسابقات</word>
-      <word>این</word>
-      <word>جامعه</word>
-    </content>
-  </text>
-  <text id="128906">
-    <content>
-      <word>روز</word>
-      <word>مذهبی</word>
-      <word>بین</word>
-      <word>خواهد</word>
-      <word>برای</word>
-      <word>تقویت</word>
-      <word>و</word>
-      <word>شمس‌الدین،</word>
-    </content>
-  </text>
-  <text id="128907">
-    <content>
-      <word>مقامات</word>
-      <word>و</word>
-      <word>وارد</word>
-      <word>شیخ</word>
-      <word>اردن</word>
-      <word>اعراب</word>
-      <word>روابط</word>
-    </content>
-  </text>
-  <text id="128908">
-    <content>
-      <word>مذاکره</word>
-      <word>شده</word>
-      <word>با</word>
-      <word>دوشنبه</word>
-      <word>کرد.</word>
-      <word>بین</word>
-      <word>مسلمانان</word>
-    </content>
-  </text>
-  <text id="128909">
-    <content>
-      <word>تدابیر</word>
-      <word>کودکان،</word>
-      <word>آسیب‌پذیر</word>
-      <word>معلولان</word>
-      <word>خاص</word>
-      <word>برای</word>
-      <word>دختران</word>
-      <word>سالمندان</word>
-      <word>جنگ‌ها</word>
-    </content>
-  </text>
-  <text id="128910">
-    <content>
-      <word>جمله</word>
-      <word>همچنین</word>
-      <word>پیشنهاد</word>
-      <word>شود.</word>
-      <word>طرح</word>
-      <word>از</word>
-      <word>از</word>
-      <word>به</word>
-      <word>هنگام</word>
-    </content>
-  </text>
-  <text id="128911">
-    <content>
-      <word>اتخاذ</word>
-      <word>و</word>
-      <word>حفاظت</word>
-      <word>گروه‌های</word>
-      <word>و</word>
-      <word>می‌کند</word>
-      <word>این</word>
-      <word>زنان،</word>
-    </content>
-  </text>
-  <text id="128912">
-    <content>
-      <word>به</word>
-      <word>از</word>
-      <word>بعد</word>
-      <word>پرداخت.</word>
-      <word>دموکرات</word>
-      <word>پیشه‌وری</word>
-      <word>تحصیل</word>
-      <word>جعفر</word>
-      <word>رهبری</word>
-    </content>
-  </text>
-  <text id="128913">
-    <content>
-      <word>یک</word>
-      <word>دانشگاه</word>
-      <word>تبریز</word>
-      <word>اولین</word>
-      <word>این</word>
-      <word>وسیله</word>
-      <word>ادبیات</word>
-      <word>دانشگاه</word>
-      <word>سال</word>
-    </content>
-  </text>
-  <text id="128914">
-    <content>
-      <word>آن</word>
-      <word>سعادت،</word>
-      <word>را</word>
-      <word>که</word>
-      <word>گرایش‌هایی</word>
-      <word>عمل</word>
-      <word>جامه</word>
-      <word>آینده</word>
-      <word>پرسش‌ها</word>
-    </content>
-  </text>
-  <text id="128915">
-    <content>
-      <word>فرقه</word>
-      <word>تأسیس</word>
-      <word>سید</word>
-      <word>پس</word>
-      <word>به</word>
-      <word>آذربایجان،</word>
-      <word>به</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="128916">
-    <content>
-      <word>پسر</word>
-      <word>نامگذاری</word>
-      <word>برجسته</word>
-      <word>به</word>
-      <word>و</word>
-      <word>نام</word>
-      <word>نادر</word>
-      <word>نویسندگان</word>
-    </content>
-  </text>
-  <text id="128917">
-    <content>
-      <word>جد</word>
-      <word>بدیع‌الزمان</word>
-      <word>بود.</word>
-      <word>که</word>
-      <word>خاندان</word>
-      <word>قاجار</word>
-      <word>از</word>
-      <word>قاجار،</word>
-    </content>
-  </text>
-  <text id="128918">
-    <content>
-      <word>می‌گردند.</word>
-      <word>نوع</word>
-      <word>و</word>
-      <word>به</word>
-      <word>رسوبات</word>
-      <word>از</word>
-      <word>طور</word>
-      <word>آهک</word>
-      <word>صورت</word>
-    </content>
-  </text>
-  <text id="128919">
-    <content>
-      <word>ته‌نشین</word>
-      <word>به</word>
-      <word>شیمیایی</word>
-      <word>کلی</word>
-      <word>این</word>
-      <word>و</word>
-      <word>بوده</word>
-      <word>دولومیت</word>
-    </content>
-  </text>
-  <text id="128920">
-    <content>
-      <word>انزوا</word>
-      <word>بود</word>
-      <word>از</word>
-      <word>خمود،</word>
-      <word>کرد.</word>
-      <word>را</word>
-      <word>بعد</word>
-    </content>
-  </text>
-  <text id="128921">
-    <content>
-      <word>او</word>
-      <word>اسلامی</word>
-      <word>احیا</word>
-      <word>دوباره</word>
-      <word>ارزش‌های</word>
-      <word>که</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="128922">
-    <content>
-      <word>جام</word>
-      <word>فوتبال‌دوستان</word>
-      <word>پیوسته،</word>
-      <word>فوتبال</word>
-      <word>مسائل</word>
-      <word>جریان</word>
-      <word>فوتبال</word>
-      <word>خشونت</word>
-      <word>نگران</word>
-    </content>
-  </text>
-  <text id="128923">
-    <content>
-      <word>تلخی</word>
-      <word>به</word>
-      <word>وقوع</word>
-      <word>در</word>
-      <word>است.</word>
-      <word>را</word>
-      <word>و</word>
-      <word>کرده</word>
-      <word>روزها</word>
-    </content>
-  </text>
-  <text id="128924">
-    <content>
-      <word>آراسته</word>
-      <word>شاه</word>
-      <word>میرزا،</word>
-      <word>میرزا</word>
-      <word>شده</word>
-      <word>نادر</word>
-      <word>بود،</word>
-      <word>دوره</word>
-    </content>
+      <line>و</line>
+      <line>هم‌زمان</line>
+      <line>مزار</line>
+      <line>با</line>
+      <line>و</line>
+      <line>محمد</line>
+      <line>عملیات</line>
+      <line>آزادسازی</line>
+      <line>یک</line>
+    </content>
   </text>
-  <text id="128925">
-    <content>
-      <word>پاسدار،</word>
-      <word>ثارالله</word>
-      <word>تفکر</word>
-      <word>و</word>
-      <word>اختصاص</word>
-      <word>به</word>
-      <word>بیانگر</word>
-      <word>بی‌سابقه</word>
-    </content>
-  </text>
-  <text id="128926">
-    <content>
-      <word>و</word>
-      <word>تشخیص</word>
-      <word>ابوشکور</word>
-      <word>تأثیر</word>
-      <word>گفتار</word>
-      <word>حقیقت</word>
-      <word>خود</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="128927">
-    <content>
-      <word>در</word>
-      <word>پایداری</word>
-      <word>درون</word>
-      <word>نبرد</word>
-      <word>دژهای</word>
-      <word>صادر</word>
-      <word>آموخت</word>
-      <word>نمی‌کند</word>
-    </content>
-  </text>
-  <text id="128928">
-    <content>
-      <word>یک</word>
-      <word>برسد</word>
-      <word>می‌بیند</word>
-      <word>بشود</word>
-      <word>ببیند.</word>
-      <word>الهی</word>
-      <word>طوری</word>
-    </content>
-  </text>
-  <text id="128929">
-    <content>
-      <word>بدهید</word>
-      <word>فیلم</word>
-      <word>و</word>
-      <word>تابلویی</word>
-      <word>در</word>
-      <word>اما</word>
-      <word>آن‌ها</word>
-      <word>رندتر</word>
-    </content>
-  </text>
-  <text id="128930">
-    <content>
-      <word>از</word>
-      <word>را</word>
-      <word>ببینیم.</word>
-      <word>می‌کنند</word>
-      <word>عده‌ای</word>
-      <word>بهانه</word>
-      <word>اجازه</word>
-    </content>
-  </text>
-  <text id="128931">
-    <content>
-      <word>هم</word>
-      <word>نگفت،</word>
-      <word>حرفی</word>
-      <word>هم</word>
-      <word>ته</word>
-      <word>سبزش</word>
-      <word>رنگین‌کمان</word>
-      <word>اما</word>
-      <word>دوید</word>
-    </content>
-  </text>
-  <text id="128932">
-    <content>
-      <word>مالید</word>
-      <word>چیزی</word>
-      <word>به</word>
-      <word>دل</word>
-      <word>و</word>
-      <word>وقت</word>
-      <word>از</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="128933">
-    <content>
-      <word>فریاد</word>
-      <word>طرف</word>
-      <word>نزد.</word>
-      <word>کشید</word>
-      <word>آن</word>
-      <word>دست‌های</word>
-      <word>را</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="128934">
-    <content>
-      <word>سطح</word>
-      <word>مسابقات</word>
-      <word>می‌باشد.</word>
-      <word>در</word>
-      <word>سالن،</word>
-      <word>همچنین</word>
-      <word>علت</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128935">
-    <content>
-      <word>لیگ</word>
-      <word>استان</word>
-      <word>کشور</word>
-      <word>در</word>
-      <word>حضور</word>
-      <word>تیم</word>
-      <word>ایران،</word>
-    </content>
-  </text>
-  <text id="128936">
-    <content>
-      <word>جهرم</word>
-      <word>و</word>
-      <word>میزبان</word>
-      <word>سوپر</word>
-      <word>بدمینتون</word>
-      <word>به</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128937">
-    <content>
-      <word>و</word>
-      <word>قدرت</word>
-      <word>این</word>
-      <word>داده‌اند.</word>
-      <word>جدی</word>
-      <word>حد</word>
-      <word>رو</word>
-      <word>و</word>
-      <word>را</word>
-    </content>
-  </text>
-  <text id="128938">
-    <content>
-      <word>کلان‌شهر</word>
-      <word>مورد</word>
-      <word>کم‌آبی</word>
-      <word>بحران</word>
-      <word>زلزله‌ای</word>
-      <word>وقوع</word>
-      <word>با</word>
-      <word>بیش</word>
-      <word>افزایش</word>
-    </content>
-  </text>
-  <text id="128939">
-    <content>
-      <word>فعلی</word>
-      <word>آلودگی</word>
-      <word>به</word>
-      <word>تهدید</word>
-      <word>قرار</word>
-      <word>هوا،</word>
-      <word>احتمال</word>
-      <word>از</word>
-      <word>زیاد،</word>
-    </content>
-  </text>
-  <text id="128940">
-    <content>
-      <word>کشته</word>
-      <word>خان</word>
-      <word>درگیر</word>
-      <word>شد</word>
-      <word>شیبانی،</word>
-      <word>که</word>
-      <word>جنگی</word>
-      <word>شد.</word>
-      <word>مرو</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="128941">
-    <content>
-      <word>جوان</word>
-      <word>در</word>
-      <word>اسماعیل</word>
-      <word>شاه</word>
-      <word>با</word>
-      <word>نزدیک</word>
-      <word>ازبک،</word>
-      <word>جنگ</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128942">
-    <content>
-      <word>جالب</word>
-      <word>چراکه</word>
-      <word>شاید</word>
-      <word>کابل</word>
-      <word>نمی‌دید</word>
-      <word>ضرورتی</word>
-      <word>دفتر</word>
-      <word>باشد.</word>
-    </content>
-  </text>
-  <text id="128943">
-    <content>
-      <word>باشد</word>
-      <word>در</word>
-      <word>از</word>
-      <word>وقایع</word>
-      <word>الجزیره</word>
-      <word>سپتامبر،</word>
-      <word>تا</word>
-      <word>بدانید</word>
-    </content>
-  </text>
-  <text id="128944">
-    <content>
-      <word>را</word>
-      <word>در</word>
-      <word>تعطیل</word>
-      <word>یازده</word>
-      <word>که</word>
-      <word>کابل</word>
-      <word>برای</word>
-    </content>
-  </text>
-  <text id="128945">
-    <content>
-      <word>که</word>
-      <word>بالفعل</word>
-      <word>بشود،</word>
-      <word>طبیعی</word>
-      <word>انسان</word>
-      <word>و</word>
-      <word>حق</word>
-    </content>
-  </text>
-  <text id="128946">
-    <content>
-      <word>به</word>
-      <word>و</word>
-      <word>همه</word>
-      <word>لب</word>
-      <word>انسان</word>
-      <word>فعلیت</word>
-      <word>بشود</word>
-    </content>
-  </text>
-  <text id="128947">
-    <content>
-      <word>آنچه</word>
-      <word>انسان</word>
-      <word>بالقوه،</word>
-      <word>الهی،</word>
-      <word>انسان</word>
-      <word>است</word>
-      <word>هرچه</word>
-    </content>
-  </text>
-  <text id="128948">
-    <content>
-      <word>بشود،</word>
-      <word>انسان</word>
-      <word>بالقوه</word>
-      <word>چیزش</word>
-      <word>به</word>
-      <word>انسان</word>
-      <word>است</word>
-    </content>
-  </text>
-  <text id="128949">
-    <content>
-      <word>ابر،</word>
-      <word>مربوط</word>
-      <word>دست</word>
-      <word>شرایط</word>
-      <word>آورد.</word>
-      <word>در</word>
-      <word>به</word>
-      <word>مادون</word>
-    </content>
-  </text>
-  <text id="128950">
+  <text id="99884">
     <content>
-      <word>یخ‌ها</word>
-      <word>را</word>
-      <word>ضخامت</word>
-      <word>ماهواره</word>
-      <word>اطلاعات</word>
-      <word>می‌توان</word>
-      <word>استفاده</word>
+      <line>لشکر</line>
+      <line>بیست</line>
+      <line>توسط</line>
+      <line>غبارروبی</line>
+      <line>شهدای</line>
+      <line>رسول‌الله</line>
+      <line>این</line>
+      <line>شد.</line>
+      <line>صلوات‌الله‌علیه</line>
     </content>
-  </text>
-  <text id="128951">
+  </text>
+  <text id="99885">
     <content>
-      <word>در</word>
-      <word>هرکس</word>
-      <word>و</word>
-      <word>می‌گشایند.</word>
-      <word>انتقاد</word>
-      <word>خود</word>
-      <word>می‌بینند</word>
-      <word>و</word>
-      <word>را</word>
-    </content>
+      <line>شهر</line>
+      <line>سالروز</line>
+      <line>هفت</line>
+      <line>مهران،</line>
+      <line>عملیات</line>
+      <line>عطرافشانی</line>
+      <line>و</line>
+      <line>پرسنل</line>
+      <line>کربلای</line>
+    </content>
   </text>
-  <text id="128952">
+  <text id="99886">
     <content>
-      <word>و</word>
-      <word>و</word>
-      <word>و</word>
-      <word>پیرامونیان</word>
-      <word>هستند</word>
-      <word>عیب‌جویی</word>
-      <word>به</word>
-      <word>زشتی‌ها</word>
+      <line>روغن</line>
+      <line>مرکبات،</line>
+      <line>با</line>
+      <line>کرفس،</line>
+      <line>است.</line>
+      <line>خام،</line>
+      <line>فلفل</line>
     </content>
-  </text>
-  <text id="128953">
+  </text>
+  <text id="99887">
     <content>
-      <word>هرچیزی</word>
-      <word>افرادی</word>
-      <word>پلشتی‌ها</word>
-      <word>پیرامون</word>
-      <word>تنها</word>
-      <word>که</word>
-      <word>از</word>
-      <word>زبان</word>
-    </content>
-  </text>
-  <text id="128954">
+      <line>مانند</line>
+      <line>بارداری،</line>
+      <line>مختلف</line>
+      <line>غذاهای</line>
+      <line>در</line>
+      <line>نباتی</line>
+      <line>به</line>
+    </content>
+  </text>
+  <text id="99888">
+    <content>
+      <line>مارگارین</line>
+      <line>اگزما</line>
+      <line>در</line>
+      <line>مصرف</line>
+      <line>ابتلاء</line>
+      <line>و</line>
+      <line>ارتباط</line>
+      <line>دوران</line>
+    </content>
+  </text>
+  <text id="99889">
+    <content>
+      <line>جدیت</line>
+      <line>بود،</line>
+      <line>با</line>
+      <line>شیخ</line>
+      <line>قانون</line>
+      <line>شده</line>
+      <line>مشروطیت</line>
+      <line>ملت؛</line>
+    </content>
+  </text>
+  <text id="99890">
+    <content>
+      <line>و</line>
+      <line>منطقه</line>
+      <line>در</line>
+      <line>چهل</line>
+      <line>اصلی</line>
+      <line>شده</line>
+      <line>مرکز</line>
+      <line>زیرکوه</line>
+      <line>شرقی</line>
+      <line>زمین‌لرزه</line>
+    </content>
+  </text>
+  <text id="99891">
+    <content>
+      <line>می‌گویند.</line>
+      <line>وقتی</line>
+      <line>این</line>
+      <line>و</line>
+      <line>او</line>
+      <line>مفتی</line>
+      <line>مقدار</line>
+      <line>بگیرد،</line>
+      <line>ملا</line>
+    </content>
+  </text>
+  <text id="99892">
+    <content>
+      <line>عالم</line>
+      <line>شیعی،</line>
+      <line>به</line>
+      <line>و</line>
+      <line>نمی‌گویند،</line>
+      <line>مسئله‌گو</line>
+      <line>یاد</line>
+      <line>مجتهد</line>
+    </content>
+  </text>
+  <text id="99893">
+    <content>
+      <line>می‌رسد.</line>
+      <line>این</line>
+      <line>گچ</line>
+      <line>مارن</line>
+      <line>است</line>
+      <line>دوران</line>
+      <line>اندیس</line>
+      <line>آن</line>
+    </content>
+  </text>
+  <text id="99894">
+    <content>
+      <line>به</line>
+      <line>و</line>
+      <line>سنگ</line>
+      <line>میوسن</line>
+      <line>میزبان</line>
+      <line>سنگ</line>
+      <line>و</line>
+      <line>دیرینگی</line>
+    </content>
+  </text>
+  <text id="99895">
+    <content>
+      <line>آفرینش</line>
+      <line>به</line>
+      <line>مخالفت</line>
+      <line>خاطر</line>
+      <line>ویژه</line>
+      <line>است</line>
+      <line>شناخته</line>
+      <line>به</line>
+      <line>او</line>
+      <line>پیرو</line>
+    </content>
+  </text>
+  <text id="99896">
+    <content>
+      <line>کاتولیک</line>
+      <line>هوشمند</line>
+      <line>و</line>
+      <line>آفرینش‌گرایی</line>
+      <line>با</line>
+      <line>شده</line>
+      <line>و</line>
+      <line>مذهب</line>
+      <line>است.</line>
+    </content>
+  </text>
+  <text id="99897">
+    <content>
+      <line>ممکن</line>
+      <line>معده</line>
+      <line>مصرف</line>
+      <line>سیر</line>
+      <line>است</line>
+      <line>پر</line>
+      <line>شش</line>
+      <line>در</line>
+      <line>سبب</line>
+    </content>
+  </text>
+  <text id="99898">
+    <content>
+      <line>زلاندنو</line>
+      <line>در</line>
+      <line>رسید</line>
+      <line>تیم</line>
+      <line>شد.</line>
+      <line>رقابت‌ها،</line>
+      <line>تیم</line>
+    </content>
+  </text>
+  <text id="99899">
+    <content>
+      <line>خونریزی</line>
+      <line>روز،</line>
+      <line>از</line>
+      <line>با</line>
+      <line>سیر</line>
+      <line>شود.</line>
+      <line>اما</line>
+      <line>گرم</line>
+      <line>بیست</line>
+    </content>
+  </text>
+  <text id="99900">
+    <content>
+      <line>پس</line>
+      <line>فیلم</line>
+      <line>کار</line>
+      <line>به</line>
+      <line>در</line>
+      <line>عنوان</line>
+      <line>مختلف</line>
+    </content>
+  </text>
+  <text id="99901">
+    <content>
+      <line>شده</line>
+      <line>چهره‌هایی</line>
+      <line>محسن</line>
+      <line>تماشاگران</line>
+      <line>روانشاد،</line>
+      <line>سبب</line>
+      <line>سلطان،</line>
+      <line>محراب</line>
+      <line>علیرضا</line>
+      <line>همچون</line>
+    </content>
+  </text>
+  <text id="99902">
+    <content>
+      <line>بود.</line>
+      <line>مانی</line>
+      <line>فاطمی</line>
+      <line>خسروی</line>
+      <line>حضور</line>
+      <line>حمید</line>
+      <line>و</line>
+      <line>استخری،</line>
+      <line>استقبال</line>
+    </content>
+  </text>
+  <text id="99903">
+    <content>
+      <line>قول</line>
+      <line>نیمه</line>
+      <line>خردادماه،</line>
+      <line>به</line>
+      <line>نقل‌وانتقالات</line>
+      <line>برخلاف</line>
+      <line>اعلام</line>
+      <line>دلیل،</line>
+    </content>
+  </text>
+  <text id="99904">
+    <content>
+      <line>دوم</line>
+      <line>مبنی</line>
+      <line>قبلی،</line>
+      <line>بر</line>
+      <line>اعلام</line>
+      <line>نتایج</line>
+      <line>تأخیر</line>
+    </content>
+  </text>
+  <text id="99905">
+    <content>
+      <line>هفته</line>
+      <line>چند</line>
+      <line>نتایج</line>
+      <line>می‌شود.</line>
+      <line>این</line>
+      <line>با</line>
+      <line>در</line>
+    </content>
+  </text>
+  <text id="99906">
+    <content>
+      <line>متمم</line>
+      <line>به</line>
+      <line>تصویب</line>
+      <line>نوری</line>
+      <line>قانون</line>
+      <line>وسیله</line>
+      <line>سابق</line>
+      <line>ضم</line>
+      <line>صدر</line>
+    </content>
+  </text>
+  <text id="99907">
+    <content>
+      <line>را</line>
+      <line>به</line>
+      <line>که</line>
+      <line>در</line>
+      <line>آن</line>
+      <line>مرحوم</line>
+      <line>فضل‌الله</line>
+      <line>کردند.</line>
+      <line>و</line>
+    </content>
+  </text>
+  <text id="99908">
+    <content>
+      <line>شد.</line>
+      <line>فارغ‌التحصیلی</line>
+      <line>از</line>
+      <line>نیز</line>
+      <line>به</line>
+      <line>مشغول</line>
+      <line>چند</line>
+      <line>دستیار</line>
+    </content>
+  </text>
+  <text id="99909">
+    <content>
+      <line>می‌شود.</line>
+      <line>اجزاء</line>
+      <line>از</line>
+      <line>موجود</line>
+      <line>که</line>
+      <line>جدیدی</line>
+      <line>بر</line>
+      <line>یک</line>
+    </content>
+  </text>
+  <text id="99910">
     <content>
-      <word>ناوشکن‌ها</word>
-      <word>جناب‌عالی</word>
-      <word>من</word>
-      <word>این</word>
-      <word>هستم</word>
-      <word>امیدوار</word>
-      <word>جست‌وجو</word>
-      <word>مدرن</word>
-      <word>باشند.</word>
-    </content>
-  </text>
-  <text id="128955">
-    <content>
-      <word>هر</word>
-      <word>که</word>
-      <word>بفرمایید</word>
-      <word>که</word>
-      <word>نخست‌وزیر،</word>
-      <word>دست‌کم</word>
-      <word>از</word>
-      <word>راهی</word>
-    </content>
-  </text>
-  <text id="128956">
-    <content>
-      <word>فروند</word>
-      <word>چهار</word>
-      <word>حال</word>
-      <word>و</word>
-      <word>را</word>
-      <word>نوع</word>
-      <word>به</word>
-      <word>از</word>
-    </content>
-  </text>
-  <text id="128957">
-    <content>
-      <word>دفتر</word>
-      <word>پیش</word>
-      <word>صدد</word>
-      <word>داشته</word>
-      <word>شما</word>
-      <word>بود</word>
-      <word>کند،</word>
+      <line>یواش‌یواش</line>
+      <line>ادامه</line>
+      <line>البته</line>
+      <line>اینکه</line>
+      <line>اگر</line>
+      <line>پیدا</line>
+      <line>باید</line>
+      <line>ساخت</line>
+      <line>جست‌وجو</line>
+      <line>بفهمند</line>
     </content>
   </text>
-  <text id="128958">
+  <text id="99911">
     <content>
-      <word>آبی‌رنگ</word>
-      <word>یک</word>
-      <word>یک</word>
-      <word>ساعت</word>
-      <word>می‌تواند</word>
-      <word>بامداد</word>
-      <word>به</word>
-      <word>است.</word>
+      <line>دیناری</line>
+      <line>به</line>
+      <line>رنگ</line>
+      <line>اسکناس‌های</line>
+      <line>رنگ</line>
+      <line>قرمز،</line>
+      <line>یک</line>
+      <line>رنگ</line>
     </content>
   </text>
-  <text id="128959">
+  <text id="99912">
     <content>
-      <word>ساعت</word>
-      <word>بعدازظهر</word>
-      <word>طور</word>
-      <word>دوی</word>
-      <word>موجود</word>
-      <word>بگذرد،</word>
-      <word>همان</word>
+      <line>پس</line>
+      <line>از</line>
+      <line>به</line>
+      <line>پی</line>
+      <line>با</line>
+      <line>برشی</line>
+      <line>و</line>
     </content>
   </text>
-  <text id="128960">
+  <text id="99913">
     <content>
-      <word>درون</word>
-      <word>آقای</word>
-      <word>از</word>
-      <word>یک</word>
-      <word>شخص</word>
-      <word>عبور</word>
-      <word>که</word>
-    </content>
+      <line>شهرکرد</line>
+      <line>شد.</line>
+      <line>تلفن‌های</line>
+      <line>هفت‌رقمی</line>
+    </content>
   </text>
-  <text id="128961">
+  <text id="99914">
     <content>
-      <word>عنوان</word>
-      <word>را</word>
-      <word>وجود</word>
-      <word>شخصی</word>
-      <word>یهودی</word>
-      <word>آلبرت</word>
-      <word>اینشتین</word>
-      <word>خدای</word>
-      <word>به</word>
+      <line>در</line>
+      <line>سعیدنژاد</line>
+      <line>خبر</line>
+      <line>نخستین</line>
+      <line>این</line>
+      <line>با</line>
+      <line>شکر</line>
+      <line>خطاب</line>
     </content>
   </text>
-  <text id="128962">
+  <text id="99915">
     <content>
-      <word>می‌دانست،</word>
-      <word>می‌کرد.</word>
-      <word>به‌شدت</word>
-      <word>خداوند</word>
-      <word>که</word>
-      <word>را</word>
-      <word>انکار</word>
-      <word>خود</word>
+      <line>به</line>
+      <line>در</line>
+      <line>ایران</line>
+      <line>کرد.</line>
+      <line>وضعیت</line>
+      <line>افزود.</line>
+      <line>نیشکر</line>
     </content>
-  </text>
-  <text id="128963">
+  </text>
+  <text id="99916">
     <content>
-      <word>دست</word>
-      <word>ژنرال</word>
-      <word>سه</word>
-      <word>مجبور</word>
-      <word>نهصد</word>
-      <word>را</word>
-      <word>اندونزی</word>
-      <word>در</word>
-      <word>سال</word>
+      <line>واحد</line>
+      <line>تشریح</line>
+      <line>شرکت‌کنندگان</line>
+      <line>تولید،</line>
+      <line>اجلاس؛</line>
+      <line>مجتمع</line>
+      <line>اعلام</line>
     </content>
   </text>
-  <text id="128964">
-    <content>
-      <word>هفت</word>
-      <word>و</word>
-      <word>هزار</word>
-      <word>و</word>
-      <word>در</word>
-      <word>بیش</word>
-      <word>دهه</word>
-      <word>شصت</word>
+  <text id="99917">
+    <content>
+      <line>خوزستان،</line>
+      <line>و</line>
+      <line>را</line>
+      <line>افتتاح</line>
+      <line>واردات</line>
+      <line>مصرف</line>
+      <line>در</line>
     </content>
   </text>
-  <text id="128965">
-    <content>
-      <word>شد</word>
-      <word>و</word>
-      <word>بر</word>
-      <word>و</word>
-      <word>استعفاء</word>
-      <word>کرد.</word>
-      <word>قدرت</word>
-      <word>برق‌آسا</word>
+  <text id="99918">
+    <content>
+      <line>رویکرد</line>
+      <line>به</line>
+      <line>تقابل</line>
+      <line>طرفداران</line>
+      <line>ریشه</line>
+      <line>تداوم</line>
+      <line>اختلافات،</line>
     </content>
   </text>
-  <text id="128966">
+  <text id="99919">
     <content>
-      <word>گرفت</word>
-      <word>و</word>
-      <word>یک</word>
-      <word>سوهارتو</word>
-      <word>از</word>
-      <word>حکمرانی</word>
-      <word>به</word>
-      <word>سوکارنو</word>
+      <line>وضع</line>
+      <line>سنتی</line>
+      <line>این</line>
+      <line>اتخاذ</line>
+      <line>حزب</line>
+      <line>برمی‌گشت.</line>
+      <line>شیوه‌های</line>
     </content>
   </text>
-  <text id="128967">
+  <text id="99920">
     <content>
-      <word>شش</word>
-      <word>هم</word>
-      <word>قادر</word>
-      <word>درون</word>
-      <word>سبزرنگ</word>
-      <word>آقای</word>
-      <word>یک</word>
-      <word>از</word>
+      <line>موجود</line>
+      <line>و</line>
+      <line>نوین</line>
+      <line>اصلی</line>
+      <line>حامیان</line>
+      <line>و</line>
+      <line>تغییر</line>
     </content>
   </text>
-  <text id="128968">
+  <text id="99921">
     <content>
-      <word>که</word>
-      <word>به</word>
-      <word>مقرهای</word>
-      <word>دستور</word>
-      <word>از</word>
-      <word>همگان</word>
-      <word>نفوذناپذیر،</word>
+      <line>اعتراض</line>
+      <line>که</line>
+      <line>حقوقم</line>
+      <line>به</line>
+      <line>نموده،</line>
+      <line>به</line>
+      <line>گاو</line>
     </content>
   </text>
-  <text id="128969">
+  <text id="99922">
     <content>
-      <word>در</word>
-      <word>لحد</word>
-      <word>اسکان</word>
-      <word>اعلان</word>
-      <word>آنتوان</word>
-      <word>فلسطین</word>
-      <word>مفهوم</word>
-      <word>کرد</word>
-      <word>و</word>
+      <line>همچون</line>
+      <line>را</line>
+      <line>را</line>
+      <line>آخر</line>
+      <line>زود</line>
+      <line>نمایندگان</line>
+      <line>قطع</line>
     </content>
   </text>
-  <text id="128970">
-    <content>
-      <word>غزه</word>
-      <word>جنگ</word>
-      <word>خواند</word>
-      <word>تأکید</word>
-      <word>که</word>
-      <word>آنان</word>
-      <word>خیانت‌کار</word>
-      <word>ملت</word>
-    </content>
-  </text>
-  <text id="128971">
+  <text id="99923">
     <content>
-      <word>و</word>
-      <word>از</word>
-      <word>شهرستان‌های</word>
-      <word>شهرستان</word>
-      <word>و</word>
-      <word>اهواز</word>
-      <word>حومه</word>
-      <word>مسجدسلیمان،</word>
-    </content>
-  </text>
-  <text id="128972">
+      <line>می‌زدند،</line>
+      <line>مرده‌ای</line>
+      <line>هم</line>
+      <line>حکم</line>
+      <line>برگرداندند.</line>
+      <line>اعتبارنامه‌ام</line>
+      <line>لگد</line>
+    </content>
+  </text>
+  <text id="99924">
     <content>
-      <word>از</word>
-      <word>شوش</word>
-      <word>اهواز</word>
-      <word>و</word>
-      <word>مسجدسلیمان،</word>
-      <word>شمال</word>
-      <word>جنوب</word>
-      <word>شرق</word>
-    </content>
+      <line>سیم</line>
+      <line>می‌شود،</line>
+      <line>و</line>
+      <line>تغذیه</line>
+      <line>به</line>
+      <line>می‌نماید.</line>
+      <line>سیم‌جوش</line>
+      <line>می‌شود</line>
+      <line>ذوب</line>
+      <line>جبران</line>
+    </content>
   </text>
-  <text id="128973">
+  <text id="99925">
     <content>
-      <word>غرب</word>
-      <word>می‌گردد.</word>
-      <word>محدود</word>
-      <word>رامهرمز</word>
-      <word>به</word>
-      <word>به</word>
-      <word>از</word>
+      <line>از</line>
+      <line>را</line>
+      <line>سیم‌پیچی</line>
+      <line>مکانیکی</line>
+      <line>یک</line>
+      <line>پیوسته</line>
+      <line>مقدار</line>
+      <line>طوری</line>
+      <line>ذوب‌شده</line>
+      <line>همان‌طورکه</line>
     </content>
   </text>
-  <text id="128974">
+  <text id="99926">
     <content>
-      <word>دارد.</word>
-      <word>می‌گیرد</word>
-      <word>تجارب</word>
-      <word>چندین</word>
-      <word>دست‌یابی</word>
-      <word>پتروشیمی</word>
-      <word>این</word>
-      <word>همکاری</word>
+      <line>صورتی</line>
+      <line>موی</line>
+      <line>بود</line>
+      <line>که</line>
+      <line>زیبا،</line>
+      <line>زنی</line>
+      <line>قهوه‌ای</line>
+      <line>به</line>
     </content>
   </text>
-  <text id="128975">
+  <text id="99927">
     <content>
-      <word>هم‌اکنون</word>
-      <word>چندملیتی</word>
-      <word>به</word>
-      <word>فنی</word>
-      <word>شرکت</word>
-      <word>و</word>
-      <word>بهره</word>
-      <word>آن‌ها</word>
+      <line>تیره</line>
+      <line>می‌ریخت.</line>
+      <line>چشمانی</line>
+      <line>با</line>
+      <line>استخوانی</line>
+      <line>پشتش</line>
+      <line>و</line>
     </content>
   </text>
-  <text id="128976">
+  <text id="99928">
     <content>
-      <word>از</word>
-      <word>دانش</word>
-      <word>تخصص</word>
-      <word>با</word>
-      <word>و</word>
-      <word>برای</word>
-      <word>شرکت</word>
-    </content>
-  </text>
-  <text id="128977">
-    <content>
-      <word>ملی</word>
-      <word>که</word>
-      <word>پیشنهاد</word>
-      <word>اتوماتیک</word>
-      <word>آن</word>
-      <word>با</word>
-      <word>شد.</word>
-      <word>کنار</word>
-      <word>در</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="128978">
-    <content>
-      <word>بود،</word>
-      <word>گذاشته</word>
-      <word>طور</word>
-      <word>جبهه</word>
-      <word>بختیار</word>
-      <word>از</word>
-      <word>قبول</word>
-      <word>عضو</word>
-      <word>شاه،</word>
-      <word>سال‌ها</word>
-    </content>
-  </text>
-  <text id="128979">
-    <content>
-      <word>لطفیان</word>
-      <word>را</word>
-      <word>نیروهای</word>
-      <word>نیروی</word>
-      <word>دیانت</word>
-      <word>امیر</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128980">
-    <content>
-      <word>امیر</word>
-      <word>به</word>
-      <word>فرماندهی</word>
-      <word>ستاد</word>
-      <word>معاون</word>
-      <word>به</word>
-      <word>عهده</word>
-    </content>
-  </text>
-  <text id="128981">
-    <content>
-      <word>سرتیپ</word>
-      <word>داشتند.</word>
-      <word>و</word>
-      <word>کل</word>
-      <word>بازرسی</word>
-      <word>سمت</word>
-      <word>کل</word>
-    </content>
-  </text>
-  <text id="128982">
-    <content>
-      <word>سرتیپ</word>
-      <word>انتظامی</word>
-      <word>ترتیب</word>
-      <word>پیش</word>
-      <word>از</word>
-      <word>و</word>
-      <word>مسلح</word>
-    </content>
-  </text>
-  <text id="128983">
-    <content>
-      <word>لبنان</word>
-      <word>رسید.</word>
-      <word>مسابقه‌های</word>
-      <word>بسکتبال</word>
-      <word>تیم</word>
-      <word>سومین</word>
-      <word>آسیا،</word>
-      <word>از</word>
-      <word>در</word>
-      <word>پیروزی</word>
-    </content>
-  </text>
-  <text id="128984">
-    <content>
-      <word>ایران</word>
-      <word>مقابل</word>
-      <word>امید</word>
-      <word>به</word>
-      <word>بسکتبال</word>
-      <word>تیم</word>
-      <word>امیدهای</word>
-      <word>انتخابی</word>
-      <word>روز</word>
-      <word>غرب</word>
-    </content>
-  </text>
-  <text id="128985">
-    <content>
-      <word>نزدیکی</word>
-      <word>بزرگراه</word>
-      <word>فلکه</word>
-      <word>می‌یابد.</word>
-      <word>اصفهانی</word>
-      <word>در</word>
-      <word>غربی،</word>
-      <word>دوم</word>
-      <word>پایان</word>
-    </content>
-  </text>
-  <text id="128986">
-    <content>
-      <word>این</word>
-      <word>در</word>
-      <word>بزرگراه</word>
-      <word>و</word>
-      <word>به</word>
-      <word>صادقیه</word>
-      <word>سرانجام</word>
-      <word>راستای</word>
-      <word>اشرفی</word>
-    </content>
-  </text>
-  <text id="128987">
-    <content>
-      <word>نمی‌دهد.</word>
-      <word>آسوده،</word>
-      <word>و</word>
-      <word>ایستادگی</word>
-      <word>از</word>
-      <word>مقاومت،</word>
-      <word>و</word>
-      <word>فرمان</word>
-    </content>
-  </text>
-  <text id="128988">
-    <content>
-      <word>به</word>
-      <word>شهرستان‌های</word>
-      <word>از</word>
-      <word>توابع</word>
-      <word>به</word>
-      <word>دزفول</word>
-      <word>و</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128989">
-    <content>
-      <word>ترتیب،</word>
-      <word>به</word>
-      <word>مثل</word>
-      <word>تکان</word>
-      <word>را</word>
-      <word>بیانی</word>
-      <word>می‌کنم.</word>
-    </content>
-  </text>
-  <text id="128990">
-    <content>
-      <word>نخور</word>
-      <word>به</word>
-      <word>که</word>
-      <word>این</word>
-      <word>خب،</word>
-      <word>محدود</word>
-      <word>کن؛</word>
-    </content>
-  </text>
-  <text id="128991">
-    <content>
-      <word>شما</word>
-      <word>این</word>
-      <word>من</word>
-      <word>بنشین،</word>
-      <word>بگویم</word>
-      <word>شما</word>
-      <word>ابزار</word>
-    </content>
-  </text>
-  <text id="128992">
-    <content>
-      <word>را</word>
-      <word>خود</word>
-      <word>خیر،</word>
-      <word>گذشته</word>
-      <word>می‌دانیم</word>
-      <word>دشمنان،</word>
-      <word>که</word>
-      <word>بعید</word>
-      <word>مسئله</word>
-      <word>ناکام</word>
-    </content>
-  </text>
-  <text id="128993">
-    <content>
-      <word>نخواهند</word>
-      <word>وقوع</word>
-      <word>و</word>
-      <word>تجربه</word>
-      <word>کرد.</word>
-      <word>این</word>
-      <word>معتقدیم</word>
-      <word>را</word>
-      <word>خیلی</word>
-      <word>تکرار</word>
-    </content>
-  </text>
-  <text id="128994">
-    <content>
-      <word>جامعه‌شناس،</word>
-      <word>اینترنت</word>
-      <word>متصل</word>
-      <word>بشری</word>
-      <word>را</word>
-      <word>شبکه‌های</word>
-      <word>به</word>
-      <word>نیز</word>
-      <word>افزایش</word>
-    </content>
-  </text>
-  <text id="128995">
-    <content>
-      <word>ملی‌گرایی</word>
-      <word>نژادپرستی،</word>
-      <word>و</word>
-      <word>جواب‌های</word>
-      <word>می‌داند.</word>
-      <word>کامپیوتری</word>
-      <word>جوامع</word>
-      <word>تبهکاری‌های</word>
-    </content>
-  </text>
-  <text id="128996">
-    <content>
-      <word>برخی</word>
-      <word>از</word>
-      <word>مختلف</word>
-      <word>سازمان‌یافته</word>
-      <word>به</word>
-      <word>و</word>
-      <word>این</word>
-      <word>جوامع</word>
-    </content>
-  </text>
-  <text id="128997">
-    <content>
-      <word>به</word>
-      <word>را</word>
-      <word>از</word>
-      <word>مسجدالنبی</word>
-      <word>دستور</word>
-      <word>به</word>
-      <word>رو،</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="128998">
-    <content>
-      <word>جایی</word>
-      <word>نزدیک</word>
-      <word>محمد،</word>
-      <word>مکان</word>
-      <word>کردند.</word>
-      <word>بازار</word>
-      <word>منتقل</word>
-    </content>
-  </text>
-  <text id="128999">
-    <content>
-      <word>شگفت</word>
-      <word>شناخته</word>
-      <word>در</word>
-      <word>به</word>
-      <word>هنوز</word>
-      <word>فلس</word>
-      <word>بسیاری</word>
-    </content>
-  </text>
-  <text id="129000">
-    <content>
-      <word>شبه‌نظامیان</word>
-      <word>بر</word>
-      <word>به</word>
-      <word>ضد</word>
-      <word>را</word>
-      <word>است.</word>
-      <word>به</word>
-      <word>وی</word>
-      <word>وابسته</word>
+      <line>بنا</line>
+      <line>پیش‌نویس</line>
+      <line>کمیته‌ای</line>
+      <line>می‌داد.</line>
+      <line>را</line>
+      <line>توضیح</line>
+      <line>سنت،</line>
+      <line>بر</line>
     </content>
   </text>
-  <text id="129001">
+  <text id="99929">
     <content>
-      <word>خوبی</word>
-      <word>اینکه</word>
-      <word>ساختمان</word>
-      <word>از</word>
-      <word>گروه‌ها</word>
-      <word>نیست.</word>
-      <word>شده</word>
+      <line>هم‌زمان</line>
+      <line>اجرای</line>
+      <line>نوبت</line>
+      <line>دیوار</line>
+      <line>می‌رسد.</line>
+      <line>بتن‌ریزی</line>
+      <line>اجرای</line>
+      <line>ستون‌ها،</line>
     </content>
   </text>
-  <text id="129002">
+  <text id="99930">
     <content>
-      <word>قوی</word>
-      <word>روغن‌های</word>
-      <word>می‌شود.</word>
-      <word>به</word>
-      <word>خوراکی</word>
-      <word>آنتی‌اکسیدان</word>
-      <word>افزوده</word>
+      <line>داد.</line>
+      <line>نشر</line>
+      <line>ناشر</line>
+      <line>گردون</line>
+      <line>که</line>
+      <line>جعلی</line>
+      <line>است،</line>
+      <line>وی</line>
     </content>
   </text>
-  <text id="129003">
+  <text id="99931">
     <content>
-      <word>در</word>
-      <word>صورت</word>
-      <word>همان</word>
-      <word>روایات</word>
-      <word>شده</word>
-      <word>کتاب</word>
+      <line>انتشارات</line>
+      <line>طرح</line>
+      <line>این</line>
+      <line>از</line>
+      <line>علیه</line>
+      <line>نسخه</line>
+      <line>شکایت</line>
+      <line>خبر</line>
+      <line>بوده</line>
     </content>
   </text>
-  <text id="129004">
+  <text id="99932">
     <content>
-      <word>است.</word>
-      <word>یعنی</word>
-      <word>به</word>
-      <word>از</word>
-      <word>نقل‌شده</word>
-      <word>نوشتن</word>
-      <word>استفاده</word>
+      <line>نیست.</line>
+      <line>خیلی</line>
+      <line>این</line>
+      <line>باندها</line>
+      <line>جدی</line>
+      <line>همچنین</line>
+      <line>تضعیف</line>
+      <line>در</line>
+      <line>باران</line>
     </content>
   </text>
-  <text id="129005">
+  <text id="99933">
     <content>
-      <word>دخیل</word>
-      <word>پاکستان،</word>
-      <word>این</word>
-      <word>مشرف،</word>
-      <word>از</word>
-      <word>مبارزه</word>
-      <word>کشور</word>
-      <word>آماده</word>
+      <line>چاپ</line>
+      <line>شعری</line>
+      <line>در</line>
+      <line>از</line>
+      <line>زنده‌رود</line>
+      <line>او</line>
+      <line>فارسی</line>
     </content>
   </text>
-  <text id="129006">
+  <text id="99934">
     <content>
-      <word>است</word>
-      <word>اجرایی</word>
-      <word>را</word>
-      <word>گفت</word>
-      <word>کلینتون،</word>
-      <word>از</word>
-      <word>کند.</word>
+      <line>تحریم</line>
+      <line>حزب</line>
+      <line>دموکراسی</line>
+      <line>از</line>
+      <line>پی</line>
+      <line>تصمیم</line>
+      <line>کشور</line>
+      <line>آزادی،</line>
     </content>
   </text>
-  <text id="129007">
+  <text id="99935">
     <content>
-      <word>پرویز</word>
-      <word>پس</word>
-      <word>نیز</word>
-      <word>بیل</word>
-      <word>شنبه‌شب</word>
-      <word>طالبان</word>
-      <word>خروج</word>
+      <line>شد.</line>
+      <line>هایدر،</line>
+      <line>اتحادیه</line>
+      <line>انقلابی</line>
+      <line>در</line>
+      <line>اتریش،</line>
+      <line>استعفاء</line>
     </content>
   </text>
-  <text id="129008">
+  <text id="99936">
     <content>
-      <word>رئیس</word>
-      <word>با</word>
-      <word>تروریسم،</word>
-      <word>ارتشبد</word>
-      <word>درمورد</word>
-      <word>آمریکا،</word>
-      <word>رئیس‌جمهوری</word>
+      <line>تحریم</line>
+      <line>اتریش:</line>
+      <line>اروپا</line>
+      <line>اروپایی</line>
+      <line>مجبور</line>
+      <line>به</line>
+      <line>خروج</line>
     </content>
   </text>
-  <text id="129009">
+  <text id="99937">
     <content>
-      <word>فقط</word>
-      <word>نگاه</word>
-      <word>من</word>
-      <word>من</word>
-      <word>صاف</word>
-      <word>به</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="129010">
+      <line>گذشته</line>
+      <line>و</line>
+      <line>دولت</line>
+      <line>و</line>
+      <line>رهبر</line>
+      <line>سه‌شنبه</line>
+      <line>به</line>
+    </content>
+  </text>
+  <text id="99938">
     <content>
-      <word>عنوان</word>
-      <word>به</word>
-      <word>این</word>
-      <word>ماده</word>
-      <word>مایع</word>
-      <word>یک</word>
+      <line>تصحیح</line>
+      <line>بایستی</line>
+      <line>حجاب</line>
+      <line>به</line>
+      <line>اکبر</line>
+      <line>به</line>
+      <line>و</line>
+      <line>ترمیم</line>
+      <line>نگرشی</line>
     </content>
   </text>
-  <text id="129011">
+  <text id="99939">
     <content>
-      <word>ایران،</word>
-      <word>سه‌شنبه</word>
-      <word>نفت</word>
-      <word>کرد.</word>
-      <word>منتشر</word>
-      <word>اوپک</word>
-      <word>خبرگزاری</word>
+      <line>این</line>
+      <line>کرد.</line>
+      <line>و</line>
+      <line>را</line>
+      <line>حال،</line>
+      <line>گذشته</line>
+      <line>با</line>
+      <line>نگاهی</line>
     </content>
   </text>
-  <text id="129012">
+  <text id="99940">
     <content>
-      <word>نقل</word>
-      <word>حسین</word>
-      <word>افزایش</word>
-      <word>مطلبی</word>
-      <word>اردبیلی،</word>
-      <word>توسط</word>
-      <word>انگلیسی</word>
+      <line>وجود</line>
+      <line>ولی</line>
+      <line>کلاس</line>
+      <line>در</line>
+      <line>آورد،</line>
+      <line>هم</line>
+      <line>می‌زدم.</line>
+      <line>معلم،</line>
+      <line>تغییر</line>
     </content>
   </text>
-  <text id="129013">
+  <text id="99941">
     <content>
-      <word>به</word>
-      <word>را</word>
-      <word>روز</word>
-      <word>در</word>
-      <word>مشاور</word>
-      <word>عالی</word>
-      <word>خصوص</word>
+      <line>کنگره،</line>
+      <line>اهداف</line>
+      <line>کرد</line>
+      <line>تهیه</line>
+      <line>رسم</line>
+      <line>که</line>
+      <line>و</line>
     </content>
   </text>
-  <text id="129014">
+  <text id="99942">
     <content>
-      <word>و</word>
-      <word>کاتولیک</word>
-      <word>پس</word>
-      <word>به</word>
-      <word>صلیبی</word>
-      <word>بالا</word>
-      <word>جنگ‌های</word>
-      <word>و</word>
-      <word>اروپاییان</word>
+      <line>درجا</line>
+      <line>تغییر</line>
+      <line>این</line>
+      <line>سبکی</line>
+      <line>رفته</line>
+      <line>روی</line>
+      <line>به</line>
+      <line>من</line>
     </content>
   </text>
-  <text id="129015">
+  <text id="99943">
     <content>
-      <word>کاتولیک</word>
-      <word>اروپای</word>
-      <word>مقام</word>
-      <word>مسلمانان،</word>
-      <word>از</word>
-      <word>بدبینی</word>
-      <word>کلیسای</word>
-      <word>سراسر</word>
+      <line>بتراشید،</line>
+      <line>را</line>
+      <line>یک</line>
+      <line>چاقو</line>
+      <line>کند.</line>
+      <line>آن</line>
+      <line>کمک</line>
+      <line>خونریزی</line>
     </content>
   </text>
-  <text id="129016">
+  <text id="99944">
     <content>
-      <word>پاپ</word>
-      <word>شکست‌های</word>
-      <word>از</word>
-      <word>پیاپی</word>
-      <word>و</word>
-      <word>در</word>
-      <word>موقعیت</word>
-      <word>گرفت.</word>
+      <line>الکترونی</line>
+      <line>تفنگ</line>
+      <line>صفحه‌های</line>
+      <line>جفت</line>
+      <line>از</line>
+      <line>دو</line>
+      <line>باریکه</line>
+      <line>بین</line>
+      <line>می‌گذرند.</line>
+      <line>به</line>
     </content>
   </text>
-  <text id="129017">
+  <text id="99945">
     <content>
-      <word>واسطه</word>
-      <word>خواص</word>
-      <word>و</word>
-      <word>تمدن</word>
-      <word>خود</word>
-      <word>را</word>
-      <word>اخلاقی،</word>
-      <word>به</word>
-      <word>وجدانی</word>
+      <line>موازی</line>
+      <line>خارج</line>
+      <line>الکترونی،</line>
+      <line>شونده</line>
+      <line>مسیرش</line>
+      <line>از</line>
+      <line>پرده،</line>
+      <line>در</line>
+      <line>فلزی</line>
+      <line>طرف</line>
     </content>
   </text>
-  <text id="129018">
+  <text id="99946">
     <content>
-      <word>تمدن‌سازی</word>
-      <word>دینی</word>
-      <word>در</word>
-      <word>امر</word>
-      <word>و</word>
-      <word>ماهیت</word>
-      <word>می‌طلبد.</word>
-      <word>که</word>
-      <word>گسترده‌تر</word>
+      <line>است</line>
+      <line>ذکر</line>
+      <line>شد.</line>
+      <line>قراری</line>
     </content>
   </text>
-  <text id="129019">
+  <text id="99947">
     <content>
-      <word>معنوی</word>
-      <word>بعد</word>
-      <word>می‌شود،</word>
-      <word>بسی</word>
-      <word>شامل</word>
-      <word>عمیق‌تر</word>
-      <word>کیفی</word>
-      <word>اسلامی</word>
+      <line>پیش‌بینی‌های</line>
+      <line>ایتالیایی</line>
+      <line>پیشگویان</line>
+      <line>که</line>
+      <line>به</line>
+      <line>امسال</line>
+      <line>معروف</line>
     </content>
   </text>
-  <text id="129020">
+  <text id="99948">
     <content>
-      <word>گزارش</word>
-      <word>است</word>
-      <word>گیاهانی</word>
-      <word>ممکن</word>
-      <word>و</word>
-      <word>سی‌ان‌ان،</word>
-      <word>خونریزی</word>
-      <word>تلویزیون</word>
+      <line>جانبه</line>
+      <line>رئیس‌جمهوری</line>
+      <line>روابط</line>
+      <line>در</line>
+      <line>رئیس‌جمهوری</line>
+      <line>با</line>
+      <line>دیدار</line>
+      <line>معاون</line>
     </content>
   </text>
-  <text id="129021">
+  <text id="99949">
     <content>
-      <word>باشند.</word>
-      <word>دانشمندان</word>
-      <word>داشته</word>
-      <word>به</word>
-      <word>از</word>
-      <word>و</word>
-      <word>جنسینگ</word>
-      <word>بر</word>
+      <line>کرد.</line>
+      <line>اول</line>
+      <line>و</line>
+      <line>دو</line>
+      <line>کوبا:</line>
+      <line>تأکید</line>
+      <line>کوبا</line>
+      <line>بر</line>
     </content>
   </text>
-  <text id="129022">
+  <text id="99950">
     <content>
-      <word>می‌گویند</word>
-      <word>خون</word>
-      <word>دارچین</word>
-      <word>قبیل</word>
-      <word>سیر،</word>
-      <word>جریان</word>
-      <word>تأثیر</word>
+      <line>معاون</line>
+      <line>وی،</line>
+      <line>رئیس‌جمهوری</line>
+      <line>توسعه</line>
+      <line>با</line>
+      <line>معاون</line>
+      <line>دیدار</line>
+      <line>گسترش</line>
     </content>
   </text>
-  <text id="129023">
+  <text id="99951">
     <content>
-      <word>کرد،</word>
-      <word>یک</word>
-      <word>این</word>
-      <word>کرد.</word>
-      <word>تاکتیک‌های</word>
-      <word>طالبان،</word>
-      <word>را</word>
-      <word>آن</word>
+      <line>به</line>
+      <line>اما</line>
+      <line>به</line>
+      <line>آن</line>
+      <line>روی</line>
+      <line>مقدار</line>
+      <line>که</line>
+      <line>نه</line>
     </content>
   </text>
-  <text id="129024">
+  <text id="99952">
     <content>
-      <word>کشور</word>
-      <word>مسعود</word>
-      <word>حاجی</word>
-      <word>به</word>
-      <word>معاون</word>
-      <word>مولا</word>
-      <word>را</word>
-      <word>اما</word>
+      <line>به</line>
+      <line>به</line>
+      <line>سوم</line>
+      <line>راهنمایی</line>
+      <line>رسید.</line>
+      <line>نام</line>
+      <line>کتاب</line>
     </content>
   </text>
-  <text id="129025">
+  <text id="99953">
     <content>
-      <word>خاکسار،</word>
-      <word>تلاش</word>
-      <word>وزیر</word>
-      <word>عنوان</word>
-      <word>تأیید</word>
-      <word>رد</word>
-      <word>کور</word>
+      <line>قطعنامه</line>
+      <line>تا</line>
+      <line>کند</line>
+      <line>را</line>
+      <line>منصوب</line>
+      <line>را</line>
+      <line>مقدمه‌ای</line>
     </content>
   </text>
-  <text id="129026">
+  <text id="99954">
     <content>
-      <word>می‌توان</word>
-      <word>کاشی</word>
-      <word>این</word>
-      <word>کاشی</word>
-      <word>از</word>
-      <word>لعاب‌دار</word>
-      <word>جلدی</word>
-      <word>دیوارها</word>
-      <word>جمله</word>
+      <line>معاون</line>
+      <line>است.</line>
+      <line>شرکت</line>
+      <line>منوچهری،</line>
+      <line>مهندس</line>
+      <line>مدیرعامل</line>
+      <line>آبفای</line>
+      <line>مدیرعامل</line>
+      <line>امور</line>
     </content>
   </text>
-  <text id="129027">
+  <text id="99955">
     <content>
-      <word>در</word>
-      <word>بخش</word>
-      <word>موارد</word>
-      <word>با</word>
-      <word>از</word>
-      <word>به‌کارگیری</word>
-      <word>تجدید</word>
-      <word>و</word>
-      <word>به‌کارگیری</word>
+      <line>که</line>
+      <line>طول</line>
+      <line>کلاس</line>
+      <line>یک</line>
+      <line>کشتی</line>
+      <line>آن</line>
+      <line>می‌باشد.</line>
     </content>
   </text>
-  <text id="129028">
+  <text id="99956">
     <content>
-      <word>برد.</word>
-      <word>زرین‌فام</word>
-      <word>با</word>
-      <word>تدریجی</word>
-      <word>زیرین</word>
-      <word>طلایی</word>
-      <word>معرق‌کاری</word>
-      <word>نام</word>
+      <line>نفربرها</line>
+      <line>ستون‌های</line>
+      <line>جاده‌ها،</line>
+      <line>خود</line>
+      <line>آسفالت</line>
+      <line>با</line>
+      <line>سربازخانه‌های</line>
+      <line>به</line>
     </content>
   </text>
-  <text id="129029">
+  <text id="99957">
     <content>
-      <word>از</word>
-      <word>طول</word>
-      <word>و</word>
-      <word>کسبه</word>
-      <word>داده</word>
-      <word>مورد</word>
-      <word>مشمولین</word>
-      <word>در</word>
+      <line>بی‌پایان</line>
+      <line>تانک‌ها</line>
+      <line>رهسپار</line>
+      <line>کوبیدن</line>
+      <line>و</line>
+      <line>گردیدند.</line>
+      <line>سوی</line>
     </content>
   </text>
-  <text id="129030">
+  <text id="99958">
     <content>
-      <word>راه</word>
-      <word>از</word>
-      <word>می‌دادند.</word>
-      <word>قرار</word>
-      <word>را</word>
-      <word>سایرین</word>
-      <word>شعارهایی</word>
-      <word>مرتباً</word>
+      <line>بالا</line>
+      <line>مدت</line>
+      <line>کلیوی</line>
+      <line>شد.</line>
+      <line>و</line>
+      <line>طولانی،</line>
+      <line>بیماری</line>
+      <line>خون</line>
     </content>
   </text>
-  <text id="129031">
+  <text id="99959">
     <content>
-      <word>از</word>
-      <word>تعمیم‌یافته</word>
-      <word>خطی</word>
-      <word>پواسون</word>
-      <word>برای</word>
-      <word>و</word>
-      <word>در</word>
-      <word>آمار،</word>
+      <line>به</line>
+      <line>فشار</line>
+      <line>خون</line>
+      <line>بودن</line>
+      <line>خواهد</line>
+      <line>قند</line>
+      <line>سبب</line>
+      <line>پیشرفت</line>
     </content>
   </text>
-  <text id="129032">
+  <text id="99960">
     <content>
-      <word>مدل‌های</word>
-      <word>رگرسیون</word>
-      <word>حاصل</word>
-      <word>زیرمجموعه‌ای</word>
-      <word>است</word>
-      <word>داده‌های</word>
-      <word>رگرسیون</word>
-      <word>می‌رود.</word>
+      <line>به</line>
+      <line>می‌برید.</line>
+      <line>می‌خواست</line>
+      <line>اگر</line>
+      <line>روزی‌اش</line>
+      <line>بخندد</line>
     </content>
   </text>
-  <text id="129033">
+  <text id="99961">
     <content>
-      <word>تحلیل</word>
-      <word>شمارش</word>
-      <word>از</word>
-      <word>از</word>
-      <word>که</word>
-      <word>به</word>
-      <word>کار</word>
-      <word>نوعی</word>
-      <word>تحلیل</word>
+      <line>نیز</line>
+      <line>نه‌تنها</line>
+      <line>دنیا</line>
+      <line>نمی‌خندید</line>
+      <line>رویش</line>
+      <line>که</line>
+      <line>را</line>
     </content>
   </text>
-  <text id="129034">
+  <text id="99962">
     <content>
-      <word>و</word>
-      <word>را</word>
-      <word>در</word>
-      <word>حالی</word>
-      <word>چهارمی</word>
-      <word>خون</word>
-      <word>بیرون</word>
+      <line>وزن</line>
+      <line>بدن</line>
+      <line>کوچک‌تر</line>
+      <line>مسئله</line>
+      <line>موجب</line>
+      <line>شود،</line>
+      <line>و</line>
+      <line>ولی</line>
+      <line>که</line>
+      <line>پایین</line>
     </content>
   </text>
-  <text id="129035">
+  <text id="99963">
     <content>
-      <word>گذرانده</word>
-      <word>سر</word>
-      <word>تبعید</word>
-      <word>که</word>
-      <word>وحشیانه</word>
-      <word>آن</word>
-      <word>محصول</word>
-      <word>در</word>
-      <word>بود.</word>
+      <line>تغییری</line>
+      <line>حجم</line>
+      <line>نکند</line>
+      <line>روند.</line>
+      <line>می‌شود</line>
+      <line>سریع‌تر</line>
+      <line>این</line>
+      <line>آن‌ها</line>
+      <line>نتیجتاً</line>
     </content>
   </text>
-  <text id="129036">
+  <text id="99964">
     <content>
-      <word>از</word>
-      <word>سیبری</word>
-      <word>بود،</word>
-      <word>نمی‌گوید</word>
-      <word>نویسنده‌ای</word>
-      <word>رفتار</word>
-      <word>چه</word>
-      <word>با</word>
+      <line>که</line>
+      <line>از</line>
+      <line>مناسب‌ترین</line>
+      <line>می‌باشد</line>
+      <line>کشتی‌رانی</line>
+      <line>فصل</line>
+      <line>تا</line>
     </content>
   </text>
-  <text id="129037">
+  <text id="99965">
     <content>
-      <word>بزرگ</word>
-      <word>تفکری</word>
-      <word>قتل‌عام</word>
-      <word>کسی</word>
-      <word>اما</word>
-      <word>و</word>
-      <word>را</word>
-      <word>طرز</word>
+      <line>بالاست.</line>
+      <line>خردادماه</line>
+      <line>سطح</line>
+      <line>دی‌ماه</line>
+      <line>در</line>
+      <line>آب</line>
+      <line>کارون</line>
     </content>
   </text>
-  <text id="129038">
+  <text id="99966">
     <content>
-      <word>دو</word>
-      <word>سوی</word>
-      <word>دارد</word>
-      <word>تو</word>
-      <word>در</word>
-      <word>که</word>
-      <word>آن</word>
-      <word>در</word>
+      <line>دو</line>
+      <line>طلایی،</line>
+      <line>پرواز</line>
+      <line>است</line>
+      <line>در</line>
+      <line>آن</line>
+      <line>متر</line>
+      <line>حال</line>
+      <line>پرنده‌ای</line>
     </content>
   </text>
-  <text id="129039">
+  <text id="99967">
     <content>
-      <word>اتاق‌های</word>
-      <word>تو</word>
-      <word>بلندی</word>
-      <word>راهروی</word>
-      <word>جای</word>
-      <word>دوم،</word>
-      <word>دارد.</word>
-      <word>طبقه</word>
+      <line>چهار</line>
+      <line>و</line>
+      <line>عظیم‌الجثه</line>
+      <line>طول</line>
+      <line>می‌رسد.</line>
+      <line>عقاب</line>
+      <line>بال</line>
+      <line>به</line>
+      <line>سر</line>
     </content>
   </text>
-  <text id="129040">
+  <text id="99968">
     <content>
-      <word>استقلال</word>
-      <word>می‌شود</word>
-      <word>آچه</word>
-      <word>که</word>
-      <word>را</word>
-      <word>خود</word>
+      <line>بهترین</line>
+      <line>قاره</line>
+      <line>رقابت‌های</line>
+      <line>ماتیوس،</line>
+      <line>چهارشنبه‌شب</line>
+      <line>از</line>
+      <line>درگذشت.</line>
+      <line>اروپا،</line>
+      <line>مبتکر</line>
     </content>
   </text>
-  <text id="129041">
+  <text id="99969">
     <content>
-      <word>با</word>
-      <word>داشته</word>
-      <word>مخالفت</word>
-      <word>ابراز</word>
-      <word>گفته</word>
-      <word>نام‌برده،</word>
-      <word>است.</word>
+      <line>برگزاری</line>
+      <line>و</line>
+      <line>استانلی</line>
+      <line>یکی</line>
+      <line>فوتبال</line>
+      <line>در</line>
+      <line>فوتبال</line>
+      <line>بازیکنان</line>
+      <line>انگلیس</line>
     </content>
   </text>
-  <text id="129042">
+  <text id="99970">
     <content>
-      <word>به</word>
-      <word>کشوری</word>
-      <word>دیگر</word>
-      <word>مجبور</word>
-      <word>آنتونیونی</word>
-      <word>که</word>
-      <word>داشت</word>
+      <line>منجر</line>
+      <line>سیکل‌های</line>
+      <line>حاصله</line>
+      <line>مکانیکی</line>
+      <line>انفجار</line>
+      <line>انقباضی،</line>
+      <line>به</line>
+      <line>و</line>
     </content>
   </text>
-  <text id="129043">
+  <text id="99971">
     <content>
-      <word>یکی</word>
-      <word>مشمولین</word>
-      <word>تشویق</word>
-      <word>مشمولین</word>
-      <word>طرف</word>
-      <word>نیز</word>
-      <word>و</word>
+      <line>تولید</line>
+      <line>اثرات</line>
+      <line>در</line>
+      <line>برای</line>
+      <line>می‌شود.</line>
+      <line>انرژی</line>
+      <line>شیمیایی</line>
+      <line>حباب‌های</line>
     </content>
   </text>
-  <text id="129044">
+  <text id="99972">
     <content>
-      <word>مشکلات</word>
-      <word>از</word>
-      <word>مربوط</word>
-      <word>بود</word>
-      <word>به</word>
-      <word>از</word>
-      <word>و</word>
+      <line>کشتی</line>
+      <line>است</line>
+      <line>مین‌جمع‌کن،</line>
+      <line>متر</line>
+      <line>سه</line>
+      <line>کلاس</line>
+      <line>از</line>
+      <line>ای،</line>
     </content>
   </text>
-  <text id="129045">
+  <text id="99973">
     <content>
-      <word>نیکلسون</word>
-      <word>بود</word>
-      <word>نیکلسون</word>
-      <word>تعهداتی</word>
-      <word>بخش</word>
-      <word>اصلی‌اش،</word>
-      <word>دیگری</word>
-    </content>
+      <line>از</line>
+      <line>بود</line>
+      <line>کودکانی</line>
+      <line>این</line>
+      <line>کرد.</line>
+      <line>که</line>
+      <line>موفقیت</line>
+    </content>
   </text>
-  <text id="129046">
+  <text id="99974">
     <content>
-      <word>در</word>
-      <word>زمینه</word>
-      <word>یا</word>
-      <word>پرچم</word>
-      <word>و</word>
-      <word>شمالی</word>
-      <word>که</word>
-      <word>است.</word>
-      <word>پرچم</word>
-    </content>
-  </text>
-  <text id="129047">
+      <line>پروژه</line>
+      <line>معدود</line>
+      <line>با</line>
+      <line>از</line>
+      <line>آلبرت</line>
+      <line>عبور</line>
+    </content>
+  </text>
+  <text id="99975">
     <content>
-      <word>ترک</word>
-      <word>بالا</word>
-      <word>با</word>
-      <word>جمهوری</word>
-      <word>شده</word>
-      <word>قرمزرنگ</word>
-      <word>سفید</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="129048">
+      <line>آشکار</line>
+      <line>از</line>
+      <line>پس</line>
+      <line>خود</line>
+      <line>از</line>
+      <line>نکرد</line>
+      <line>خداوند،</line>
+      <line>طرف</line>
+      <line>دعوت</line>
+    </content>
+  </text>
+  <text id="99976">
     <content>
-      <word>رنگ</word>
-      <word>آن،</word>
-      <word>تفاوت</word>
-      <word>دو</word>
-      <word>این</word>
-      <word>خط</word>
-      <word>طرح</word>
-      <word>پایین</word>
-    </content>
-  </text>
-  <text id="129049">
+      <line>آب</line>
+      <line>در</line>
+      <line>شهری،</line>
+      <line>استان</line>
+      <line>سمت</line>
+      <line>این</line>
+      <line>منصوب</line>
+      <line>مرکزی</line>
+      <line>وزیر</line>
+    </content>
+  </text>
+  <text id="99977">
     <content>
-      <word>ترکیه</word>
-      <word>افقی</word>
-      <word>اضافه</word>
-      <word>قبرس</word>
-      <word>به</word>
-      <word>است</word>
-      <word>با</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="129050">
+      <line>دراز</line>
+      <line>بود،</line>
+      <line>نور</line>
+      <line>زمین</line>
+      <line>چرخید</line>
+      <line>و</line>
+      <line>کشید،</line>
+      <line>در</line>
+      <line>نوشته</line>
+    </content>
+  </text>
+  <text id="99978">
     <content>
-      <word>داخل</word>
-      <word>که</word>
-      <word>تنها</word>
-      <word>جلو</word>
-      <word>عقب</word>
-      <word>آن</word>
-      <word>دو</word>
-      <word>شکمش</word>
-    </content>
-  </text>
-  <text id="129051">
+      <line>آن‌چه</line>
+      <line>پهلو</line>
+      <line>به</line>
+      <line>مشغول</line>
+      <line>شد.</line>
+      <line>روی</line>
+      <line>شمع</line>
+      <line>خواندن</line>
+    </content>
+  </text>
+  <text id="99979">
     <content>
-      <word>را</word>
-      <word>گرفت</word>
-      <word>یک</word>
-      <word>قطره</word>
-      <word>از</word>
-      <word>یا</word>
-      <word>برد،</word>
-    </content>
+      <line>تشییع</line>
+      <line>و</line>
+      <line>و</line>
+      <line>پس</line>
+      <line>شهر</line>
+      <line>وی</line>
+      <line>شد.</line>
+      <line>در</line>
+      <line>فردوس</line>
+      <line>زادگاهش</line>
+    </content>
   </text>
-  <text id="129052">
+  <text id="99980">
     <content>
-      <word>شمشیری</word>
-      <word>آمد.</word>
-      <word>به</word>
-      <word>محل</word>
-      <word>و</word>
-      <word>در</word>
-      <word>جراحتش</word>
+      <line>پیکر</line>
+      <line>دفن</line>
+      <line>مشهد،</line>
+      <line>به</line>
+      <line>تهران</line>
+      <line>شد</line>
+      <line>در</line>
+      <line>برده</line>
+      <line>از</line>
     </content>
   </text>
-  <text id="129053">
+  <text id="99981">
     <content>
-      <word>کشور</word>
-      <word>جک</word>
-      <word>برود.</word>
-      <word>دنبال</word>
-      <word>بازیگر</word>
-      <word>به</word>
-      <word>آنتونیونی</word>
+      <line>مهندسی</line>
+      <line>دارند.</line>
+      <line>پارامترها</line>
+      <line>سامانه‌های</line>
+      <line>در</line>
+      <line>به</line>
+      <line>خصوص</line>
+      <line>کاربرد</line>
     </content>
   </text>
-  <text id="129054">
+  <text id="99982">
     <content>
-      <word>همچنان</word>
-      <word>نمی‌شود</word>
-      <word>را</word>
-      <word>و</word>
-      <word>توجیه</word>
-      <word>ایدئولوژیک</word>
-      <word>را</word>
+      <line>این</line>
+      <line>و</line>
+      <line>مایکروویو</line>
+      <line>الکترونیک،</line>
+      <line>طراحی</line>
+      <line>مخابراتی</line>
+      <line>در</line>
     </content>
   </text>
-  <text id="129055">
+  <text id="99983">
     <content>
-      <word>امروزه</word>
-      <word>دیگر</word>
-      <word>ندارد،</word>
-      <word>قاره</word>
-      <word>طوری</word>
-      <word>کند.</word>
-      <word>ولی</word>
-      <word>این</word>
-      <word>اورآسیا</word>
+      <line>در</line>
+      <line>که</line>
+      <line>شیمی‌درمانی</line>
+      <line>تجربه</line>
+      <line>هیپنوتیزم</line>
+      <line>طول</line>
+      <line>شود</line>
+      <line>این</line>
+      <line>روبه‌رو</line>
     </content>
   </text>
-  <text id="129056">
+  <text id="99984">
     <content>
-      <word>می‌کند</word>
-      <word>سناریو</word>
-      <word>از</word>
-      <word>عمل</word>
-      <word>ناچار</word>
-      <word>است</word>
-      <word>که</word>
-      <word>خارج</word>
+      <line>مهندس</line>
+      <line>شرکت،</line>
+      <line>حکم</line>
+      <line>با</line>
+      <line>به</line>
+      <line>سابق</line>
+      <line>موسوی،</line>
+      <line>شده</line>
+      <line>نیرو</line>
     </content>
   </text>
-  <text id="129057">
+  <text id="99985">
     <content>
-      <word>اضافه</word>
-      <word>بر</word>
-      <word>شوند.</word>
-      <word>نیز</word>
-      <word>اعضای</word>
-      <word>هیئت</word>
-      <word>و</word>
-      <word>تأیید</word>
-      <word>شده</word>
+      <line>کمتری</line>
+      <line>باعث</line>
+      <line>می‌شود</line>
+      <line>بگذرد.</line>
+      <line>با</line>
+      <line>و</line>
+      <line>سریع‌تر</line>
+      <line>استرس</line>
+      <line>زمان</line>
     </content>
   </text>
-  <text id="129058">
+  <text id="99986">
     <content>
-      <word>هیئت‌منصفه</word>
-      <word>که</word>
-      <word>هفت</word>
-      <word>مجموع</word>
-      <word>این</word>
-      <word>بهترین</word>
-      <word>بپذیرند</word>
-      <word>نفر</word>
-      <word>شاید</word>
+      <line>امور</line>
+      <line>خطر</line>
+      <line>دخالت</line>
+      <line>افتد.</line>
+      <line>امنیت</line>
+      <line>که</line>
+      <line>زمانی</line>
+      <line>یا</line>
     </content>
   </text>
-  <text id="129059">
+  <text id="99987">
     <content>
-      <word>این</word>
-      <word>که</word>
-      <word>کنونی</word>
-      <word>بود</word>
-      <word>شکل</word>
-      <word>انتخاب‌کننده،</word>
-      <word>کار</word>
-      <word>دیگر</word>
+      <line>الزامی</line>
+      <line>یا</line>
+      <line>به</line>
+      <line>در</line>
+      <line>عنوان</line>
+      <line>و</line>
+      <line>ضمناً</line>
+      <line>گردش</line>
     </content>
   </text>
-  <text id="129060">
+  <text id="99988">
     <content>
-      <word>احوال</word>
-      <word>پرسید</word>
-      <word>محبت</word>
-      <word>صمیمیت</word>
-      <word>و</word>
-      <word>و</word>
-      <word>و</word>
-      <word>اظهار</word>
-      <word>محبت</word>
+      <line>سپرده</line>
+      <line>چک</line>
+      <line>است.</line>
+      <line>در</line>
+      <line>چک</line>
+      <line>ریال</line>
+      <line>متقاضیان</line>
+      <line>توسط</line>
     </content>
   </text>
-  <text id="129061">
+  <text id="99989">
     <content>
-      <word>نسبت</word>
-      <word>که</word>
-      <word>کمال</word>
-      <word>دیدند</word>
-      <word>کرد.</word>
-      <word>خیلی</word>
-      <word>کرد</word>
-      <word>با</word>
+      <line>ارائه</line>
+      <line>مبلغ</line>
+      <line>وجه</line>
+      <line>بانکی</line>
+      <line>سازمان</line>
+      <line>میلیون</line>
+      <line>پنج</line>
     </content>
-  </text>
-  <text id="129062">
+  </text>
+  <text id="99990">
     <content>
-      <word>اکرم</word>
-      <word>خانواده‌اش</word>
-      <word>او</word>
-      <word>رسول</word>
-      <word>خود</word>
-      <word>این</word>
-      <word>-</word>
-      <word>-</word>
-    </content>
-  </text>
-  <text id="129063">
+      <line>از</line>
+      <line>برجسته‌ترین</line>
+      <line>این</line>
+      <line>بدو</line>
+      <line>جنبش</line>
+      <line>از</line>
+      <line>اعضای</line>
+    </content>
+  </text>
+  <text id="99991">
+    <content>
+      <line>است.</line>
+      <line>کشور</line>
+      <line>استقلال،</line>
+      <line>تعهد</line>
+      <line>جمله</line>
+      <line>عدم</line>
+      <line>بوده</line>
+    </content>
+  </text>
+  <text id="99992">
+    <content>
+      <line>آشکار</line>
+      <line>سه</line>
+      <line>نمود.</line>
+      <line>را</line>
+      <line>وحی</line>
+      <line>و</line>
+      <line>خود</line>
+      <line>سال</line>
+      <line>محمد</line>
+    </content>
+  </text>
+  <text id="99993">
+    <content>
+      <line>سوم</line>
+      <line>دعوت</line>
+      <line>بعثت</line>
+      <line>با</line>
+      <line>سال</line>
+      <line>از</line>
+      <line>تا</line>
+      <line>پس</line>
+      <line>را</line>
+    </content>
+  </text>
+  <text id="99994">
+    <content>
+      <line>صلح</line>
+      <line>به</line>
+      <line>منطقه‌ای</line>
+      <line>داخلی،</line>
+      <line>بین‌المللی</line>
+      <line>و</line>
+      <line>یعنی</line>
+      <line>در</line>
+    </content>
+  </text>
+  <text id="99995">
+    <content>
+      <line>کار</line>
+      <line>مردم</line>
+      <line>بکنند.</line>
+      <line>چه</line>
+      <line>می‌دانند</line>
+      <line>که</line>
+      <line>کند،</line>
+      <line>بدون</line>
+      <line>برنامه</line>
+    </content>
+  </text>
+  <text id="99996">
+    <content>
+      <line>عید</line>
+      <line>عید</line>
+      <line>نماز</line>
+      <line>عید</line>
+      <line>در</line>
+      <line>است</line>
+      <line>و</line>
+    </content>
+  </text>
+  <text id="99997">
+    <content>
+      <line>و</line>
+      <line>بود.</line>
+      <line>یا</line>
+      <line>دیگر،</line>
+      <line>در</line>
+      <line>از</line>
+      <line>فرد،</line>
+      <line>طریق</line>
+      <line>غیرمتعارف</line>
+      <line>عین</line>
+    </content>
+  </text>
+  <text id="99998">
+    <content>
+      <line>تاریخ</line>
+      <line>که</line>
+      <line>مسابقات</line>
+      <line>دسته</line>
+      <line>بود</line>
+      <line>به</line>
+      <line>لیورپول</line>
+      <line>قهرمان</line>
+      <line>کاپیتان</line>
+      <line>وی</line>
+    </content>
+  </text>
+  <text id="99999">
+    <content>
+      <line>نخستین</line>
+      <line>همچنین</line>
+      <line>لیگ</line>
+      <line>در</line>
+      <line>لیورپول،</line>
+      <line>شد.</line>
+      <line>انگلستان</line>
+      <line>باشگاه</line>
+      <line>همراه</line>
+      <line>اول</line>
+    </content>
+  </text>
+  <text id="100000">
+    <content>
+      <line>می‌کشه.</line>
+      <line>می‌دونی</line>
+      <line>که</line>
+      <line>چطور</line>
+      <line>خرناس</line>
+    </content>
+  </text>
+  <text id="100001">
+    <content>
+      <line>بود.</line>
+      <line>دکتر</line>
+      <line>سید</line>
+      <line>و</line>
+      <line>شهادت</line>
+      <line>بارها</line>
+      <line>شجاع</line>
+      <line>مرز</line>
+      <line>حسن</line>
+    </content>
+  </text>
+  <text id="100002">
+    <content>
+      <line>بود</line>
+      <line>بچه‌های</line>
+      <line>رفته</line>
+      <line>پیش</line>
+      <line>تخریب</line>
+      <line>تا</line>
+      <line>عارفی،</line>
+      <line>از</line>
+      <line>گردان</line>
+    </content>
+  </text>
+  <text id="100003">
+    <content>
+      <line>نتیجه</line>
+      <line>نهایت</line>
+      <line>می‌توان</line>
+      <line>و</line>
+      <line>میسور</line>
+      <line>در</line>
+      <line>گرفت</line>
+      <line>شده</line>
+      <line>طلب،</line>
+    </content>
+  </text>
+  <text id="100004">
+    <content>
+      <line>معرفت</line>
+      <line>بود.</line>
+      <line>چنین</line>
+      <line>حق،</line>
+      <line>که</line>
+      <line>خواهد</line>
+      <line>محقق</line>
+      <line>توحید،</line>
+    </content>
+  </text>
+  <text id="100005">
+    <content>
+      <line>پیشگام</line>
+      <line>تبریز</line>
+      <line>فرقه</line>
+      <line>دموکرات</line>
+      <line>شاخه</line>
+      <line>را</line>
+      <line>کنفرانس</line>
+      <line>ایالتی</line>
+      <line>در</line>
+      <line>دموکرات</line>
+    </content>
+  </text>
+  <text id="100006">
+    <content>
+      <line>در</line>
+      <line>این</line>
+      <line>داد.</line>
+      <line>تشکیل</line>
+      <line>آذربایجان،</line>
+      <line>محمد</line>
+      <line>خیابانی،</line>
+      <line>میان</line>
+      <line>شیخ</line>
+    </content>
+  </text>
+  <text id="100007">
+    <content>
+      <line>سراسر</line>
+      <line>نهج‌البلاغه</line>
+      <line>ترجمه</line>
+      <line>خدمت</line>
+      <line>مدارس</line>
+      <line>سال</line>
+      <line>سعی</line>
+      <line>مدارس</line>
+    </content>
+  </text>
+  <text id="100008">
+    <content>
+      <line>چاپ</line>
+      <line>از</line>
+      <line>جدیدی</line>
+      <line>اهداء</line>
+      <line>به</line>
+      <line>و</line>
+      <line>کند.</line>
+    </content>
+  </text>
+  <text id="100009">
+    <content>
+      <line>کشور</line>
+      <line>امیرالمؤمنین</line>
+      <line>تا</line>
+      <line>کشور</line>
+      <line>تیراژ</line>
+      <line>در</line>
+      <line>در</line>
+    </content>
+  </text>
+  <text id="100010">
+    <content>
+      <line>را</line>
+      <line>وسیع</line>
+      <line>کرده</line>
+      <line>به</line>
+      <line>نهج‌البلاغه</line>
+      <line>برای</line>
+      <line>بنیاد</line>
+    </content>
+  </text>
+  <text id="100011">
+    <content>
+      <line>حرکات</line>
+      <line>است،</line>
+      <line>عهده</line>
+      <line>دارد.</line>
+      <line>یک</line>
+      <line>ماهواره</line>
+      <line>یک</line>
+      <line>را</line>
+    </content>
+  </text>
+  <text id="100012">
+    <content>
+      <line>بر</line>
+      <line>قرار</line>
+      <line>گشتاور</line>
+      <line>با</line>
+      <line>جریان</line>
+      <line>شده</line>
+      <line>ظریف</line>
+      <line>کنترل</line>
+    </content>
+  </text>
+  <text id="100013">
+    <content>
+      <line>بدنه</line>
+      <line>داده</line>
+      <line>سیم‌پیچ</line>
+      <line>که</line>
+      <line>اطراف</line>
+      <line>سطح</line>
+      <line>خارجی</line>
+      <line>مغناطیسی</line>
+    </content>
+  </text>
+  <text id="100014">
+    <content>
+      <line>روزبه‌روز</line>
+      <line>گردد.</line>
+      <line>اندیشه‌های</line>
+      <line>است</line>
+      <line>ناگفته</line>
+      <line>متحول</line>
+      <line>گردید</line>
+      <line>وفور</line>
+      <line>کیفری</line>
+      <line>ادامه</line>
+    </content>
+  </text>
+  <text id="100015">
+    <content>
+      <line>و</line>
+      <line>این</line>
+      <line>نقش</line>
+      <line>نیز</line>
+      <line>را</line>
+      <line>سلب</line>
+      <line>قبول</line>
+      <line>ایفا</line>
+    </content>
+  </text>
+  <text id="100016">
+    <content>
+      <line>رساندن</line>
+      <line>مجلس</line>
+      <line>مهمی</line>
+      <line>هیئت‌رئیسه</line>
+      <line>تصمیم</line>
+      <line>مجلس،</line>
+      <line>به</line>
+      <line>ریاست</line>
+      <line>جلب</line>
+    </content>
+  </text>
+  <text id="100017">
+    <content>
+      <line>موافقت</line>
+      <line>این</line>
+      <line>تصویب</line>
+      <line>یک</line>
+      <line>کرد.</line>
+      <line>فوریت</line>
+      <line>با</line>
+      <line>طرح،</line>
+      <line>در</line>
+    </content>
+  </text>
+  <text id="100018">
+    <content>
+      <line>شدت</line>
+      <line>مرعوب</line>
+      <line>شده</line>
+      <line>جنگی</line>
+      <line>دریای</line>
+      <line>اروپایی‌ها</line>
+      <line>و</line>
+    </content>
+  </text>
+  <text id="100019">
+    <content>
+      <line>رنگ</line>
+      <line>به</line>
+      <line>دیناری</line>
+      <line>و</line>
+      <line>بحرین</line>
+      <line>پانصد</line>
+      <line>فلسی</line>
+    </content>
+  </text>
+  <text id="100020">
+    <content>
+      <line>سبز</line>
+      <line>است.</line>
+      <line>بیست</line>
+      <line>دیناری</line>
+      <line>هلویی</line>
+      <line>به</line>
+      <line>قهوه‌ای،</line>
+    </content>
+  </text>
+  <text id="100021">
+    <content>
+      <line>پنج</line>
+      <line>به</line>
+      <line>رنگ</line>
+      <line>ده</line>
+      <line>به</line>
+      <line>دیناری</line>
+      <line>آبی،</line>
+    </content>
+  </text>
+  <text id="100022">
+    <content>
+      <line>روابط</line>
+      <line>دست</line>
+      <line>می‌شود</line>
+      <line>مطلقاً</line>
+      <line>اهدافتان</line>
+      <line>و</line>
+      <line>مبتنی</line>
+      <line>مادی</line>
+    </content>
+  </text>
+  <text id="100023">
+    <content>
+      <line>نمی‌کنید.</line>
+      <line>پیدا</line>
+      <line>به</line>
+      <line>بر</line>
+      <line>عوامل</line>
+      <line>آدم‌ها</line>
+      <line>شما</line>
+      <line>پایه‌ریزی</line>
+    </content>
+  </text>
+  <text id="100024">
+    <content>
+      <line>می‌رود.</line>
+      <line>انواع</line>
+      <line>از</line>
+      <line>آن</line>
+      <line>تزئین</line>
+      <line>شمار</line>
+      <line>نیز</line>
+    </content>
+  </text>
+  <text id="100025">
+    <content>
+      <line>روز</line>
+      <line>شکلات</line>
+      <line>به</line>
+      <line>پختن</line>
+      <line>آداب</line>
+      <line>این</line>
+      <line>و</line>
+    </content>
+  </text>
+  <text id="100026">
+    <content>
+      <line>از</line>
+      <line>نقش‌های</line>
+      <line>و</line>
+      <line>گوشه‌ای</line>
+      <line>را</line>
+      <line>نشان</line>
+      <line>موقعیت</line>
+      <line>شأن</line>
+    </content>
+  </text>
+  <text id="100027">
+    <content>
+      <line>مشخص</line>
+      <line>موجب</line>
+      <line>سیستم</line>
+      <line>که</line>
+      <line>و</line>
+      <line>که</line>
+      <line>دادرسی</line>
+      <line>تفتیشی</line>
+      <line>یابد</line>
+      <line>آیین</line>
+    </content>
+  </text>
+  <text id="100028">
+    <content>
+      <line>می‌دهد.</line>
+      <line>سه</line>
+      <line>اسلامی</line>
+      <line>دانشجویی،</line>
+      <line>تشکل‌ها</line>
+      <line>گانه</line>
+      <line>تشکل‌های</line>
+    </content>
+  </text>
+  <text id="100029">
+    <content>
+      <line>دویست</line>
+      <line>خواهد</line>
+      <line>اول</line>
+      <line>بود.</line>
+      <line>پیش‌بینی‌شده</line>
+      <line>هزار</line>
+      <line>هزار،</line>
+      <line>سال</line>
+    </content>
+  </text>
+  <text id="100030">
+    <content>
+      <line>این</line>
+      <line>نیوهمپشایر</line>
+      <line>نوع</line>
+      <line>است</line>
+      <line>اساس</line>
+      <line>فهرست</line>
+      <line>شامل</line>
+      <line>و</line>
+      <line>گروه،</line>
+    </content>
+  </text>
+  <text id="100031">
+    <content>
+      <line>مرتب</line>
+      <line>فرودگاه‌های</line>
+      <line>که</line>
+      <line>فهرست</line>
+      <line>آن‌ها</line>
+      <line>بر</line>
+      <line>مکان</line>
+      <line>شده‌اند.</line>
+    </content>
+  </text>
+  <text id="100032">
+    <content>
+      <line>می‌کرد.</line>
+      <line>روزگار،</line>
+      <line>یکی</line>
+      <line>نجف،</line>
+      <line>سفارش</line>
+      <line>پدر،</line>
+      <line>همان</line>
+      <line>کار</line>
+    </content>
+  </text>
+  <text id="100033">
+    <content>
+      <line>روزها</line>
+      <line>افراد</line>
+      <line>به</line>
+      <line>از</line>
+      <line>نزد</line>
+      <line>در</line>
+      <line>متدین</line>
+    </content>
+  </text>
+  <text id="100034">
+    <content>
+      <line>تعداد</line>
+      <line>آنلاین</line>
+      <line>هستند.</line>
+      <line>زیادی</line>
+      <line>الکترونیکی</line>
+      <line>چاپی</line>
+      <line>بسیاری</line>
+      <line>اگرچه</line>
+    </content>
+  </text>
+  <text id="100035">
+    <content>
+      <line>اکنون</line>
+      <line>آن‌ها</line>
+      <line>هستند،</line>
+      <line>کتاب‌های</line>
+      <line>از</line>
+      <line>از</line>
+      <line>کتاب‌ها</line>
+    </content>
+  </text>
+  <text id="100036">
+    <content>
+      <line>جولانگاه</line>
+      <line>بودند.</line>
+      <line>کشتی‌های</line>
+      <line>به</line>
+      <line>عثمانی‌ها</line>
+      <line>عثمانی‌ها</line>
+      <line>بود</line>
+      <line>مدیترانه،</line>
+    </content>
+  </text>
+  <text id="100037">
+    <content>
+      <line>هفته</line>
+      <line>دو</line>
+      <line>هفده</line>
+      <line>مصرف</line>
+      <line>معادل</line>
+      <line>و</line>
+      <line>مگاوات</line>
+      <line>در</line>
+    </content>
+  </text>
+  <text id="100038">
+    <content>
+      <line>قربان</line>
+      <line>می‌خوانند.</line>
+      <line>دو</line>
+      <line>روز</line>
+      <line>فطر</line>
+      <line>نمازی</line>
+      <line>که</line>
+      <line>مسلمانان</line>
+    </content>
+  </text>
+  <text id="100039">
+    <content>
+      <line>آذربایجان</line>
+      <line>ارتش</line>
+      <line>سرخ</line>
+      <line>حمله</line>
+      <line>این</line>
+      <line>سوسیالیستی</line>
+      <line>آکادمی</line>
+      <line>دولتی</line>
+    </content>
+  </text>
+  <text id="100040">
+    <content>
+      <line>جمهوری</line>
+      <line>پس</line>
+      <line>دانشگاه</line>
+      <line>دانشگاه</line>
+      <line>پلی‌تکنیک</line>
+      <line>از</line>
+      <line>و</line>
+    </content>
+  </text>
+  <text id="100041">
+    <content>
+      <line>هیچ</line>
+      <line>است.</line>
+      <line>چراکه</line>
+      <line>دور</line>
+      <line>استحکامات</line>
+      <line>که</line>
+      <line>نساخته‌اند،</line>
+      <line>قلعه،</line>
+    </content>
+  </text>
+  <text id="100042">
+    <content>
+      <line>قواعد</line>
+      <line>زین‌العابدین</line>
+      <line>میر</line>
+      <line>استرآبادی</line>
+      <line>و</line>
+      <line>در</line>
+      <line>آموخته</line>
+      <line>شیعه</line>
+      <line>مذهب</line>
+      <line>شیعه،</line>
+    </content>
+  </text>
+  <text id="100043">
+    <content>
+      <line>اجل</line>
+      <line>را</line>
+      <line>از</line>
+      <line>جوانی</line>
+      <line>وی</line>
+      <line>اصول</line>
+      <line>محضر</line>
+      <line>در</line>
+      <line>عالمان</line>
+      <line>بود.</line>
+    </content>
+  </text>
+  <text id="100044">
+    <content>
+      <line>پیشرفته‌ترین</line>
+      <line>و</line>
+      <line>مخالفتی</line>
+      <line>را</line>
+      <line>اسلام</line>
+      <line>ندارد.</line>
+      <line>با</line>
+      <line>دارد</line>
+    </content>
+  </text>
+  <text id="100045">
+    <content>
+      <line>حکومت</line>
+      <line>و</line>
+      <line>نداشته</line>
+      <line>تمدن</line>
+      <line>به‌هیچ‌وجه</line>
+      <line>حکومت</line>
+      <line>اسلام</line>
+    </content>
+  </text>
+  <text id="100046">
+    <content>
+      <line>است</line>
+      <line>که</line>
+      <line>پیشنهاد</line>
+      <line>در</line>
+      <line>حال</line>
+      <line>یک</line>
+      <line>خرید</line>
+      <line>تبلت</line>
+      <line>مواجه</line>
+    </content>
+  </text>
+  <text id="100047">
     <content>
-      <word>اصحاب</word>
-      <word>و</word>
-      <word>به</word>
-      <word>صلی‌الله‌علیه</word>
-      <word>با</word>
-      <word>رفتار</word>
-      <word>زن</word>
-      <word>را</word>
-    </content>
+      <line>ویژه</line>
+      <line>می‌شود.</line>
+      <line>آنلاین</line>
+      <line>یک</line>
+      <line>با</line>
+      <line>جدید</line>
+      <line>مشتری</line>
+      <line>تخفیف</line>
+    </content>
   </text>
-  <text id="129064">
+  <text id="100048">
     <content>
-      <word>کنگره</word>
-      <word>مقاوله‌نامه</word>
-      <word>کشور</word>
-      <word>آمریکا،</word>
-      <word>ملکه</word>
-      <word>در</word>
-      <word>گذاشتن</word>
-      <word>این</word>
-      <word>نور</word>
+      <line>با</line>
+      <line>تأکید</line>
+      <line>کردند.</line>
+      <line>تظاهرکنندگان</line>
+      <line>مسالمت‌آمیز</line>
+      <line>از</line>
+      <line>تظاهرات</line>
+    </content>
+  </text>
+  <text id="100049">
+    <content>
+      <line>ارمنستان</line>
+      <line>بود</line>
+      <line>میهن</line>
+      <line>حمل</line>
+      <line>شوروی</line>
+      <line>پرچم</line>
+      <line>شوروی،</line>
+    </content>
+  </text>
+  <text id="100050">
+    <content>
+      <line>علاقه</line>
+      <line>و</line>
+      <line>گورباچف</line>
+      <line>خود،</line>
+      <line>پلاکاردهایی</line>
+      <line>بر</line>
+      <line>و</line>
     </content>
-  </text>
-  <text id="129065">
-    <content>
-      <word>طی</word>
-      <word>ضد</word>
-      <word>نطقی</word>
-      <word>هرچه</word>
-      <word>را،</word>
-      <word>دولت</word>
-      <word>نفر</word>
-      <word>کار</word>
-      <word>خواست</word>
+  </text>
+  <text id="100051">
+    <content>
+      <line>خارج</line>
+      <line>خواب</line>
+      <line>اتاقه</line>
+      <line>ساختمان،</line>
+      <line>خانه</line>
+      <line>در</line>
+      <line>زود</line>
+      <line>از</line>
     </content>
-  </text>
-  <text id="129066">
+  </text>
+  <text id="100052">
+    <content>
+      <line>چهار</line>
+      <line>او</line>
+      <line>کاهگلی</line>
+      <line>پدری‌اش،</line>
+      <line>کلبه</line>
+      <line>با</line>
+      <line>از</line>
+    </content>
+  </text>
+  <text id="100053">
+    <content>
+      <line>صبح‌های</line>
+      <line>قبل،</line>
+      <line>یک</line>
+      <line>برمی‌خاست.</line>
+      <line>دو</line>
+      <line>دهه</line>
+      <line>مستراح</line>
+    </content>
+  </text>
+  <text id="100054">
+    <content>
+      <line>مردم</line>
+      <line>و</line>
+      <line>عزت</line>
+      <line>حفظ</line>
+      <line>را</line>
+      <line>حجت</line>
+      <line>خواست</line>
+    </content>
+  </text>
+  <text id="100055">
     <content>
-      <word>و</word>
-      <word>از</word>
-      <word>بپذیرد.</word>
-      <word>تولید</word>
-      <word>زودتر</word>
-      <word>مین‌های</word>
-      <word>بین‌المللی</word>
-      <word>ممنوعیت</word>
-    </content>
-  </text>
-  <text id="129067">
+      <line>به</line>
+      <line>داد</line>
+      <line>ایستادگی</line>
+      <line>او</line>
+      <line>از</line>
+      <line>توکل</line>
+      <line>نظر</line>
+    </content>
+  </text>
+  <text id="100056">
     <content>
-      <word>از</word>
-      <word>می‌شود.</word>
-      <word>در</word>
-      <word>منجر</word>
-      <word>نشود</word>
-      <word>بعد</word>
-      <word>همچنین</word>
-      <word>خونریزی</word>
-      <word>دارو</word>
-      <word>به</word>
-    </content>
+      <line>مد</line>
+      <line>مردم</line>
+      <line>برسند.</line>
+      <line>و</line>
+      <line>شرعی</line>
+      <line>و</line>
+      <line>قرار</line>
+    </content>
   </text>
-  <text id="129068">
+  <text id="100057">
     <content>
-      <word>که</word>
-      <word>ایجاد</word>
-      <word>برخی،</word>
-      <word>است</word>
-      <word>حاملگی</word>
-      <word>شک</word>
-      <word>به</word>
-      <word>قطع</word>
-      <word>ممکن</word>
+      <line>به</line>
+      <line>سازمان</line>
+      <line>حال،</line>
+      <line>انضباط</line>
+      <line>تعبیر</line>
+      <line>نظم‌پذیری</line>
+      <line>بیرون</line>
+      <line>اهرم‌های</line>
+      <line>از</line>
+      <line>از</line>
     </content>
   </text>
-  <text id="129069">
+  <text id="100058">
     <content>
-      <word>دسته</word>
-      <word>حذف</word>
-      <word>دسته</word>
-      <word>جاری</word>
-      <word>به</word>
-      <word>مشکلات</word>
-      <word>مسابقات</word>
-      <word>باشگاه</word>
-      <word>مرحله</word>
+      <line>این</line>
+      <line>وجه</line>
+      <line>به</line>
+      <line>است</line>
+      <line>و</line>
+      <line>خرج</line>
+      <line>شهر</line>
+      <line>بی‌مصرفی</line>
     </content>
   </text>
-  <text id="129070">
+  <text id="100059">
     <content>
-      <word>سپیدرود</word>
-      <word>زیرگروه</word>
-      <word>دوم</word>
-      <word>دلیل</word>
-      <word>باشگاه‌های</word>
-      <word>شد</word>
-      <word>در</word>
-      <word>سال</word>
+      <line>از</line>
+      <line>همین</line>
+      <line>تعهد</line>
+      <line>جزئی</line>
+      <line>تأثیر</line>
+      <line>نظام</line>
+      <line>مخلوقی</line>
+      <line>این</line>
+      <line>فرق</line>
+      <line>تحت</line>
     </content>
   </text>
-  <text id="129071">
-    <content>
-      <word>فجر</word>
-      <word>کرد.</word>
-      <word>سقوط</word>
-      <word>در</word>
-      <word>رشت</word>
-      <word>و</word>
-      <word>به</word>
-      <word>دو</word>
+  <text id="100060">
+    <content>
+      <line>پس</line>
+      <line>و</line>
+      <line>که</line>
+      <line>موجودات</line>
+      <line>است.</line>
+      <line>نظام</line>
+      <line>با</line>
+      <line>دارد</line>
+      <line>تعهد</line>
+      <line>او</line>
+    </content>
+  </text>
+  <text id="100061">
+    <content>
+      <line>سوم،</line>
+      <line>به</line>
+      <line>دهه</line>
+      <line>گروه</line>
+      <line>کرد.</line>
+      <line>و</line>
+      <line>مکبث</line>
     </content>
-  </text>
-  <text id="129072">
-    <content>
-      <word>گازرسانی</word>
-      <word>به</word>
-      <word>شهر</word>
-      <word>جهت</word>
-      <word>ذکر</word>
-      <word>ایران</word>
-      <word>تکمیل</word>
-      <word>پروژه</word>
-      <word>در</word>
+  </text>
+  <text id="100062">
+    <content>
+      <line>سه</line>
+      <line>مرحوم</line>
+      <line>قرائت</line>
+      <line>رشید</line>
+      <line>جلد</line>
+      <line>و</line>
+      <line>فارسی</line>
+      <line>شده</line>
     </content>
-  </text>
-  <text id="129073">
-    <content>
-      <word>تلاش</word>
-      <word>امکانات</word>
-      <word>لازم</word>
-      <word>گاز</word>
-      <word>لازم،</word>
-      <word>ملی</word>
-      <word>نمود.</word>
-      <word>تأمین</word>
+  </text>
+  <text id="100063">
+    <content>
+      <line>قریب</line>
+      <line>دبیرستان‌ها</line>
+      <line>کتاب</line>
+      <line>مخصوص</line>
+      <line>با</line>
+      <line>و</line>
+      <line>شرکت</line>
     </content>
   </text>
-  <text id="129074">
-    <content>
-      <word>یک</word>
-      <word>محمد</word>
-      <word>به</word>
-      <word>کرده</word>
-      <word>مهدی</word>
-      <word>ما،</word>
-      <word>زمین</word>
-      <word>بود.</word>
+  <text id="100064">
+    <content>
+      <line>عبدالعظیم</line>
+      <line>بدیع‌الزمان</line>
+      <line>مرحوم</line>
+      <line>که</line>
+      <line>مرحوم</line>
+      <line>تدوین</line>
+      <line>یاسمی</line>
     </content>
   </text>
-  <text id="129075">
-    <content>
-      <word>مقتول</word>
-      <word>حسین</word>
-      <word>نفر</word>
-      <word>پیدا</word>
-      <word>لقمانی،</word>
-      <word>و</word>
-      <word>خبرنگار</word>
-      <word>به</word>
+  <text id="100065">
+    <content>
+      <line>فروزانفر</line>
+      <line>ملک‌الشعرای</line>
+      <line>خان</line>
+      <line>است.</line>
+      <line>و</line>
+      <line>بهار</line>
+      <line>مرحوم</line>
     </content>
   </text>
-  <text id="129076">
+  <text id="100066">
     <content>
-      <word>سر</word>
-      <word>بر</word>
-      <word>اختلاف</word>
-      <word>نام‌های</word>
-      <word>گزارش</word>
-      <word>دو</word>
-      <word>قطعه</word>
-      <word>با</word>
+      <line>بنابراین</line>
+      <line>و</line>
+      <line>تغییرات</line>
+      <line>نرخ</line>
+      <line>نباید</line>
+      <line>گیرد.</line>
+      <line>به</line>
+      <line>مکرر</line>
     </content>
-  </text>
-  <text id="129077">
-    <content>
-      <word>از</word>
-      <word>از</word>
-      <word>اساسی</word>
-      <word>یا</word>
-      <word>و</word>
-      <word>راه‌آهن</word>
-      <word>بهره‌برداری</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="129078">
-    <content>
-      <word>از</word>
-      <word>شهید</word>
-      <word>بعد</word>
-      <word>تحویل</word>
-      <word>و</word>
-      <word>سه</word>
-      <word>پرسنل</word>
-      <word>توسط</word>
-    </content>
-  </text>
-  <text id="129079">
-    <content>
-      <word>اتوبوس،</word>
-      <word>دستگاه</word>
-      <word>کشف</word>
-      <word>پاسگاه</word>
-      <word>و</word>
-      <word>مواد</word>
-      <word>آن</word>
-    </content>
-  </text>
-  <text id="129080">
-    <content>
-      <word>هشتاد</word>
-      <word>دستگیری</word>
-      <word>مدنی</word>
-      <word>یک</word>
-      <word>همچنین</word>
-      <word>داده</word>
-      <word>قانونی</word>
-    </content>
-  </text>
-  <text id="129081">
-    <content>
-      <word>مخدر</word>
-      <word>از</word>
-      <word>کیلوگرم</word>
-      <word>به</word>
-      <word>عاملین</word>
-      <word>مراجع</word>
-      <word>شده‌اند.</word>
-    </content>
   </text>
-  <text id="129082">
+  <text id="100067">
     <content>
-      <word>فرهنگ</word>
-      <word>امر</word>
-      <word>گرگان</word>
-      <word>تقدیر</word>
-      <word>و</word>
-      <word>مدرسه‌سازی،</word>
-      <word>تشکر</word>
-      <word>ترویج</word>
-      <word>خیرین</word>
-      <word>با</word>
+      <line>باید</line>
+      <line>صورت</line>
+      <line>و</line>
+      <line>طور</line>
+      <line>در</line>
+      <line>وودز،</line>
+      <line>ارز،</line>
+      <line>ضرورت</line>
     </content>
   </text>
-  <text id="129083">
+  <text id="100068">
     <content>
-      <word>جامعه</word>
-      <word>از</word>
-      <word>خواستار</word>
-      <word>در</word>
-      <word>در</word>
-      <word>امام‌جمعه</word>
-      <word>شد.</word>
-      <word>گلستان</word>
-      <word>استان</word>
-      <word>این</word>
+      <line>برتون</line>
+      <line>مداوم</line>
+      <line>شود،</line>
+      <line>سیستم</line>
+      <line>به‌ندرت</line>
+      <line>بلکه</line>
+      <line>انجام</line>
+      <line>هنگام</line>
     </content>
   </text>
-  <text id="129084">
+  <text id="100069">
     <content>
-      <word>دستگیری</word>
-      <word>وی</word>
-      <word>یکی</word>
-      <word>بخشودگی</word>
-      <word>بدون</word>
-      <word>شده</word>
-      <word>است.</word>
-      <word>ابد</word>
-      <word>هلند</word>
+      <line>نوشت</line>
+      <line>اسفار</line>
+      <line>است.</line>
+      <line>تدریس،</line>
+      <line>این</line>
+      <line>کتاب</line>
+      <line>سومین</line>
+      <line>در</line>
+      <line>که</line>
     </content>
   </text>
-  <text id="129085">
+  <text id="100070">
     <content>
-      <word>به</word>
-      <word>حبس</word>
-      <word>پس</word>
-      <word>از</word>
-      <word>دادگاه‌های</word>
-      <word>از</word>
-      <word>سوی</word>
-      <word>محکوم</word>
-      <word>از</word>
+      <line>منحل</line>
+      <line>نفت</line>
+      <line>باکو</line>
+      <line>جایگزین</line>
+      <line>آذربایجان</line>
+      <line>به</line>
+      <line>شوروی</line>
+      <line>گردید.</line>
     </content>
-  </text>
-  <text id="129086">
-    <content>
-      <word>وجود</word>
-      <word>خود</word>
-      <word>زیرا</word>
-      <word>جست‌وجو</word>
-      <word>ژئواستراتژیک</word>
-      <word>مکمل‌های</word>
-      <word>ماهیت</word>
-      <word>راهبردی</word>
-      <word>را</word>
-    </content>
-  </text>
-  <text id="129087">
-    <content>
-      <word>رخ</word>
-      <word>آمد.</word>
-      <word>داد،</word>
-      <word>ریال</word>
-      <word>مذاب</word>
-      <word>بار</word>
-      <word>تن</word>
-    </content>
-  </text>
-  <text id="129088">
-    <content>
-      <word>مواد</word>
-      <word>این</word>
-      <word>علت</word>
-      <word>هشتاد</word>
-      <word>آتش‌سوزی</word>
-      <word>که</word>
-      <word>از</word>
-    </content>
-  </text>
-  <text id="129089">
-    <content>
-      <word>شدن</word>
-      <word>شیشه</word>
-      <word>سوراخ</word>
-      <word>بر</word>
-      <word>خروج</word>
-      <word>بیش</word>
-      <word>میلیون</word>
-    </content>
-  </text>
-  <text id="129090">
-    <content>
-      <word>در</word>
-      <word>حدس‌های</word>
-      <word>زبان</word>
-      <word>و</word>
-      <word>آمده</word>
-      <word>باره</word>
-      <word>است،</word>
-      <word>پدید</word>
-      <word>کی</word>
-    </content>
   </text>
-  <text id="129091">
-    <content>
-      <word>امروزه</word>
-      <word>کجا</word>
-      <word>چگونه،</word>
-      <word>زده</word>
-      <word>که</word>
-      <word>می‌شود.</word>
-      <word>چرا،</word>
-      <word>بسیاری</word>
-      <word>این</word>
-    </content>
-  </text>
-  <text id="129092">
+  <text id="100071">
     <content>
-      <word>می‌کند</word>
-      <word>ماجراها</word>
-      <word>حبس</word>
-      <word>تنگستانی</word>
-      <word>می‌شود.</word>
-      <word>احمد</word>
-      <word>به</word>
-      <word>ادامه</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="129093">
-    <content>
-      <word>دخمه‌ای</word>
-      <word>دام</word>
-      <word>این</word>
-      <word>پیدا</word>
-      <word>اینکه</word>
-      <word>و</word>
-      <word>می‌افتد</word>
-      <word>بی‌خبر</word>
-      <word>تا</word>
-    </content>
-  </text>
-  <text id="129094">
-    <content>
-      <word>کارشناسان،</word>
-      <word>و</word>
-      <word>معضل</word>
-      <word>اعتقاد</word>
-      <word>مهم</word>
-      <word>در</word>
-      <word>حل</word>
-      <word>احداث</word>
-      <word>شهری</word>
-    </content>
-  </text>
-  <text id="129095">
-    <content>
-      <word>است.</word>
-      <word>و</word>
-      <word>ترافیک</word>
-      <word>راهکارهای</word>
-      <word>مترو</word>
-      <word>یکی</word>
-      <word>شهری،</word>
-      <word>سریع</word>
-    </content>
-  </text>
-  <text id="129096">
-    <content>
-      <word>به</word>
-      <word>اثر</word>
-      <word>کوره</word>
-      <word>چهار</word>
-      <word>زیان</word>
-      <word>و</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="129097">
-    <content>
-      <word>خواهد</word>
-      <word>یادشده</word>
-      <word>که</word>
-      <word>با</word>
-      <word>به</word>
-      <word>شرکت</word>
-      <word>است</word>
-      <word>دو</word>
-    </content>
-  </text>
-  <text id="129098">
-    <content>
-      <word>ترویج</word>
-      <word>در</word>
-      <word>خشونت</word>
-      <word>و</word>
-      <word>امنیت</word>
-      <word>بنابراین</word>
-      <word>سال</word>
-      <word>امسال</word>
-    </content>
-  </text>
-  <text id="129099">
-    <content>
-      <word>و</word>
-      <word>دوستی</word>
-      <word>به</word>
-      <word>هیلاری</word>
-      <word>در</word>
-      <word>که</word>
-      <word>اتفاقات،</word>
-      <word>با</word>
-      <word>هم</word>
-    </content>
-  </text>
-  <text id="129100">
-    <content>
-      <word>به</word>
-      <word>می‌رسد.</word>
-      <word>تنها</word>
-      <word>سوشی</word>
-      <word>و</word>
-      <word>هنگام</word>
-      <word>آن</word>
-      <word>ترش</word>
-    </content>
-  </text>
-  <text id="129101">
-    <content>
-      <word>این</word>
-      <word>مصرف</word>
-      <word>در</word>
-      <word>خوردن</word>
-      <word>می‌شود</word>
-      <word>و</word>
-      <word>شده</word>
-      <word>خوراکی</word>
-    </content>
-  </text>
-  <text id="129102">
-    <content>
-      <word>پایان</word>
-      <word>سه</word>
-      <word>در</word>
-      <word>و</word>
-      <word>با</word>
-      <word>بیستمین</word>
-      <word>سران</word>
-      <word>بحث</word>
-      <word>خلیج</word>
-    </content>
-  </text>
-  <text id="129103">
-    <content>
-      <word>روز</word>
-      <word>شورای</word>
-      <word>از</word>
-      <word>ریاض</word>
-      <word>صدور</word>
-      <word>بیانیه‌ای</word>
-      <word>خود</word>
-      <word>پس</word>
-      <word>دیروز</word>
-    </content>
-  </text>
-  <text id="129104">
-    <content>
-      <word>همکاری</word>
-      <word>گفت‌وگو،</word>
-      <word>اجلاس</word>
-      <word>بعدازظهر</word>
-      <word>به</word>
-      <word>فارس</word>
-      <word>داد.</word>
-      <word>کار</word>
-    </content>
-  </text>
-  <text id="129105">
-    <content>
-      <word>اجمالی</word>
-      <word>با</word>
-      <word>این</word>
-      <word>مفاهیم</word>
-      <word>حاکی</word>
-      <word>حال</word>
-      <word>این</word>
-      <word>می‌باشد.</word>
-      <word>آشنایی</word>
-    </content>
-  </text>
-  <text id="129106">
-    <content>
-      <word>از</word>
-      <word>از</word>
-      <word>گفت‌وگوها</word>
-      <word>برخی</word>
-      <word>با</word>
-      <word>سخنرانی‌ها</word>
-      <word>او</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="129107">
-    <content>
-      <word>سلول‌ها</word>
-      <word>بدن</word>
-      <word>کند.</word>
-      <word>را</word>
-      <word>را</word>
-      <word>می‌داند</word>
-      <word>چگونه</word>
-      <word>تولید</word>
-    </content>
-  </text>
-  <text id="129108">
-    <content>
-      <word>و</word>
-      <word>و</word>
-      <word>خراشیدگی‌ها</word>
-      <word>زخم‌ها</word>
-      <word>بافت‌های</word>
-      <word>صورت</word>
-      <word>جدید</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="129109">
-    <content>
-      <word>چگونه</word>
-      <word>نیاز</word>
-      <word>کند،</word>
-      <word>آسیب‌دیدگی‌ها</word>
-      <word>و</word>
-      <word>درمان</word>
-      <word>که</word>
-    </content>
-  </text>
-  <text id="129110">
-    <content>
-      <word>کوچکی</word>
-      <word>پاکت‌های</word>
-      <word>لیموترش،</word>
-      <word>کنید</word>
-      <word>لباس‌هایتان</word>
-      <word>مصرف</word>
-      <word>دهید.</word>
-      <word>آن‌ها</word>
-    </content>
-  </text>
-  <text id="129111">
-    <content>
-      <word>پس</word>
-      <word>قفسه</word>
-      <word>را</word>
-      <word>با</word>
-      <word>آن‌ها</word>
-      <word>خشک</word>
-      <word>نگه‌داری</word>
-    </content>
-  </text>
-  <text id="129112">
-    <content>
-      <word>در</word>
-      <word>مبارزه</word>
-      <word>و</word>
-      <word>و</word>
-      <word>در</word>
-      <word>از</word>
-      <word>دور</word>
-    </content>
-  </text>
-  <text id="129113">
-    <content>
-      <word>قرار</word>
-      <word>نریزید</word>
-      <word>کرده</word>
-      <word>پوست</word>
-      <word>بید:</word>
-      <word>را</word>
-      <word>بلکه</word>
-    </content>
-  </text>
-  <text id="129114">
-    <content>
-      <word>می‌کنیم.</word>
-      <word>حول</word>
-      <word>می‌گفتند</word>
-      <word>افسران</word>
-      <word>کاخ</word>
-      <word>وظیفه</word>
-      <word>ماست</word>
-      <word>و</word>
-      <word>به‌کرات</word>
-    </content>
-  </text>
-  <text id="129115">
-    <content>
-      <word>این</word>
-      <word>و</word>
-      <word>که</word>
-      <word>حوش</word>
-      <word>به</word>
-      <word>را</word>
-      <word>این</word>
-      <word>کار</word>
-      <word>من</word>
+      <line>حاشیه</line>
+      <line>بر</line>
+      <line>حاشیه‌ای</line>
+      <line>ملاصدرا،</line>
+      <line>تحصیل</line>
+      <line>زمان</line>
+      <line>بر</line>
+      <line>و</line>
     </content>
-  </text>
-  <text id="129116">
-    <content>
-      <word>است</word>
-      <word>این</word>
-      <word>قبه</word>
-      <word>آن</word>
-      <word>نیز</word>
-      <word>ساخته،</word>
-      <word>محرابی</word>
-      <word>قبه‌ای</word>
-      <word>-</word>
-    </content>
-  </text>
-  <text id="129117">
-    <content>
-      <word>سوشی،</word>
-      <word>بدطعم</word>
-      <word>به</word>
-      <word>دور</word>
-      <word>و</word>
-      <word>ریخته</word>
-      <word>نوع</word>
-      <word>برنج،</word>
-      <word>ماهی</word>
-    </content>
   </text>
-  <text id="129118">
+  <text id="100072">
     <content>
-      <word>پدیدار</word>
-      <word>من</word>
-      <word>چون</word>
-      <word>مادر</word>
-      <word>شد،</word>
-      <word>لبخندی</word>
-      <word>روی</word>
-    </content>
-  </text>
-  <text id="129119">
-    <content>
-      <word>دیدن</word>
-      <word>مثل</word>
-      <word>بر</word>
-      <word>به‌آرامی</word>
-      <word>با</word>
-      <word>باز</word>
-      <word>اینکه</word>
-    </content>
-  </text>
-  <text id="129120">
-    <content>
-      <word>لبانش</word>
-      <word>متوجه</word>
-      <word>حضورم</word>
-      <word>را</word>
-      <word>کرد</word>
-      <word>و</word>
-      <word>پلک‌هایش</word>
-      <word>شد.</word>
-    </content>
-  </text>
-  <text id="129121">
-    <content>
-      <word>تحولات</word>
-      <word>دوره</word>
-      <word>این</word>
-      <word>نظامی</word>
-      <word>ارتش</word>
-      <word>تأثیر</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="129122">
-    <content>
-      <word>کرد.</word>
-      <word>و</word>
-      <word>ورزشی</word>
-      <word>تأکید</word>
-      <word>در</word>
-      <word>بین‌المللی</word>
-      <word>و</word>
+      <line>تماشای</line>
+      <line>سمت</line>
+      <line>و</line>
+      <line>که</line>
+      <line>می‌روند</line>
+      <line>افق</line>
+      <line>می‌توانی</line>
+      <line>آن</line>
     </content>
   </text>
-  <text id="129123">
-    <content>
-      <word>داخلی</word>
-      <word>بر</word>
-      <word>نقش</word>
-      <word>نیروهای</word>
-      <word>امیرحسینی</word>
-      <word>خصوص</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="129124">
+  <text id="100073">
     <content>
-      <word>می‌آورند،</word>
-      <word>به</word>
-      <word>که</word>
-      <word>راه</word>
-      <word>دنیا</word>
-      <word>از</word>
+      <line>به</line>
+      <line>سوشی</line>
+      <line>تقسیم</line>
+      <line>بزرگ</line>
+      <line>دو</line>
     </content>
   </text>
-  <text id="129125">
+  <text id="100074">
     <content>
-      <word>به</word>
-      <word>می‌گویند.</word>
-      <word>را</word>
-      <word>تخم</word>
-      <word>جانورانی</word>
-      <word>بچه‌هایشان</word>
-      <word>تخم‌گذار</word>
+      <line>این</line>
+      <line>کلی</line>
+      <line>نوع</line>
+      <line>گروه</line>
+      <line>به</line>
+      <line>طور</line>
+      <line>می‌شود.</line>
     </content>
   </text>
-  <text id="129126">
+  <text id="100075">
     <content>
-      <word>حالی</word>
-      <word>غربی</word>
-      <word>معکوس</word>
-      <word>در</word>
-      <word>جهت</word>
-      <word>امتداد</word>
-      <word>است.</word>
-      <word>شرق</word>
+      <line>خواهد</line>
+      <line>شیخ‌الإسلام</line>
+      <line>که</line>
+      <line>اسد،</line>
+      <line>پیام</line>
+      <line>خاتمی،</line>
+      <line>آقای</line>
     </content>
-  </text>
-  <text id="129127">
-    <content>
-      <word>یعنی</word>
-      <word>این</word>
-      <word>در</word>
-      <word>طرف</word>
-      <word>شرقی</word>
-      <word>شمال</word>
-      <word>امتداد</word>
-      <word>کوه‌ها</word>
-    </content>
-  </text>
-  <text id="129128">
-    <content>
-      <word>که</word>
-      <word>رودخانه</word>
-      <word>دارد،</word>
-      <word>یافته</word>
-      <word>از</word>
-      <word>به</word>
-      <word>جنوب</word>
-    </content>
-  </text>
-  <text id="129129">
-    <content>
-      <word>و</word>
-      <word>بر</word>
-      <word>-</word>
-      <word>رخام،</word>
-      <word>بر</word>
-      <word>بسته</word>
-      <word>دیگر</word>
-      <word>جانب</word>
-    </content>
-  </text>
-  <text id="129130">
-    <content>
-      <word>و</word>
-      <word>داخل</word>
-      <word>در</word>
-      <word>هشتاد</word>
-      <word>ژاپن</word>
-      <word>شد.</word>
-      <word>و</word>
-      <word>شمال</word>
-      <word>سایتاما</word>
-    </content>
   </text>
-  <text id="129131">
+  <text id="100076">
     <content>
-      <word>دو</word>
-      <word>خارج</word>
-      <word>بزرگ‌ترین</word>
-      <word>جشنواره</word>
-      <word>ژاپن</word>
-      <word>برگزار</word>
-      <word>راه‌پیمایی</word>
-      <word>از</word>
-    </content>
-  </text>
-  <text id="129132">
-    <content>
-      <word>شرکت</word>
-      <word>خزان</word>
-      <word>در</word>
-      <word>استان</word>
-      <word>فصل</word>
-      <word>بیش</word>
-      <word>ژاپن</word>
-      <word>آسیایی،</word>
-    </content>
-  </text>
-  <text id="129133">
-    <content>
-      <word>دستگاه‌ها</word>
-      <word>انجام</word>
-      <word>و</word>
-      <word>ایجاد</word>
-      <word>دولتی</word>
-      <word>ارجاع</word>
-      <word>عمومی</word>
-      <word>بخش</word>
-      <word>و</word>
+      <line>تقدیم</line>
+      <line>ایران</line>
+      <line>مصاحبه</line>
+      <line>حافظ</line>
+      <line>را</line>
+      <line>خرازی</line>
+      <line>محمد</line>
     </content>
   </text>
-  <text id="129134">
+  <text id="100077">
     <content>
-      <word>در</word>
-      <word>و</word>
-      <word>تبعیض</word>
-      <word>و</word>
-      <word>و</word>
-      <word>بین</word>
-      <word>با</word>
-      <word>کار</word>
-      <word>تعاونی</word>
+      <line>در</line>
+      <line>مطبوعاتی</line>
+      <line>کرد.</line>
+      <line>سوریه</line>
+      <line>گفت</line>
+      <line>رئیس‌جمهوری</line>
+      <line>رئیس‌جمهوری</line>
     </content>
   </text>
-  <text id="129135">
+  <text id="100078">
     <content>
-      <word>شود.</word>
-      <word>شرکت‌های</word>
-      <word>بخش</word>
-      <word>دولتی</word>
-      <word>نباید</word>
-      <word>عمومی،</word>
-      <word>معامله،</word>
-      <word>خصوصی</word>
-      <word>توسط</word>
+      <line>بازی</line>
+      <line>تئاتری</line>
+      <line>تابستان</line>
+      <line>سلطنتی</line>
+      <line>اوایل</line>
+      <line>ریچارد</line>
+      <line>نمایشنامه‌های</line>
+      <line>و</line>
     </content>
-  </text>
-  <text id="129136">
-    <content>
-      <word>کسی</word>
-      <word>مجلس</word>
-      <word>می‌رفتند</word>
-      <word>که</word>
-      <word>مردمی</word>
-      <word>دم</word>
-      <word>تا</word>
-      <word>که</word>
-    </content>
   </text>
-  <text id="129137">
-    <content>
-      <word>در</word>
-      <word>یعنی</word>
-      <word>سرپرستی</word>
-      <word>می‌آمدند</word>
-      <word>بگوید.</word>
-      <word>و</word>
-      <word>به</word>
-      <word>امر</word>
-    </content>
-  </text>
-  <text id="129138">
+  <text id="100079">
     <content>
-      <word>بود،</word>
-      <word>یک</word>
-      <word>پدرم</word>
-      <word>و</word>
-      <word>تشریفاتی</word>
-      <word>بنشیند</word>
-      <word>بود</word>
-      <word>خوش‌آمد</word>
-    </content>
-  </text>
-  <text id="129139">
-    <content>
-      <word>از</word>
-      <word>جشنواره</word>
-      <word>با</word>
-      <word>در</word>
-      <word>توکیو</word>
-      <word>در</word>
-      <word>نفر</word>
-      <word>هزار</word>
-    </content>
-  </text>
-  <text id="129140">
-    <content>
-      <word>برخی‌ها</word>
-      <word>وحدت</word>
-      <word>تریبون‌های</word>
-      <word>بنامیم</word>
-      <word>رسمی،</word>
-      <word>کنند.</word>
-      <word>ما</word>
-      <word>اما</word>
-    </content>
-  </text>
-  <text id="129141">
-    <content>
-      <word>را</word>
-      <word>دکان،</word>
-      <word>گویند.</word>
-      <word>آن</word>
-      <word>است</word>
-      <word>و</word>
-      <word>نیکو</word>
-      <word>علیه‌السلام</word>
-    </content>
-  </text>
-  <text id="129142">
-    <content>
-      <word>مشاوره‌ای</word>
-      <word>قبل</word>
-      <word>کرد.</word>
-      <word>را</word>
-      <word>زوج‌های</word>
-      <word>ذکر</word>
-      <word>خدمات</word>
-      <word>هدف</word>
-    </content>
-  </text>
-  <text id="129143">
-    <content>
-      <word>پورهادی،</word>
-      <word>مسئولیت</word>
-      <word>این</word>
-      <word>سال‌هاست</word>
-      <word>را</word>
-      <word>بخش</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="129144">
-    <content>
-      <word>از</word>
-      <word>به</word>
-      <word>بیش</word>
-      <word>وی،</word>
-      <word>است.</word>
-      <word>او</word>
-      <word>نسخه</word>
-      <word>سایت</word>
-      <word>ششصد</word>
-      <word>هزار</word>
-    </content>
-  </text>
-  <text id="129145">
-    <content>
-      <word>به</word>
-      <word>فروش</word>
-      <word>به</word>
-      <word>گواهی</word>
-      <word>از</word>
-      <word>تا</word>
-      <word>رسیده</word>
-      <word>شخصی</word>
-      <word>کتاب‌های</word>
-      <word>حال</word>
-    </content>
-  </text>
-  <text id="129146">
-    <content>
-      <word>و</word>
-      <word>گیاهی</word>
-      <word>را</word>
-      <word>می‌کند</word>
-      <word>خرما،</word>
-      <word>و</word>
-      <word>و</word>
-      <word>نقوش</word>
-    </content>
-  </text>
-  <text id="129147">
-    <content>
-      <word>علاوه‌بر</word>
-      <word>الیاف</word>
-      <word>می‌پرداخته‌اند.</word>
-      <word>نیز</word>
-      <word>حبوبات</word>
-      <word>درخت</word>
-      <word>روی</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="129148">
-    <content>
-      <word>گندم</word>
-      <word>کاشتن</word>
-      <word>همچنین</word>
-      <word>جو</word>
-      <word>کشت</word>
-      <word>تربیت</word>
-      <word>این</word>
-      <word>آن‌ها</word>
-    </content>
-  </text>
-  <text id="129149">
-    <content>
-      <word>درفش</word>
-      <word>مفرغی</word>
-      <word>کشف‌شده،</word>
-      <word>گفته</word>
-      <word>تأیید</word>
-      <word>به</word>
-      <word>سفال‌ها</word>
-      <word>که</word>
-    </content>
-  </text>
-  <text id="129150">
-    <content>
-      <word>می‌باشد</word>
-      <word>می‌رسد.</word>
-      <word>متر</word>
-      <word>اتصال</word>
-      <word>حدود</word>
-      <word>در</word>
-      <word>وسعت</word>
-      <word>تا</word>
-      <word>در</word>
-    </content>
-  </text>
-  <text id="129151">
-    <content>
-      <word>و</word>
-      <word>به</word>
-      <word>دز</word>
-      <word>آن</word>
-      <word>رود</word>
-      <word>دویست</word>
-      <word>نیز</word>
-      <word>پنجاه</word>
-    </content>
-  </text>
-  <text id="129152">
-    <content>
-      <word>جنوب</word>
-      <word>چهارصد</word>
-      <word>سیصد</word>
-      <word>متر</word>
-      <word>تا</word>
-      <word>محل</word>
-      <word>اهواز</word>
-      <word>و</word>
-    </content>
-  </text>
-  <text id="129153">
-    <content>
-      <word>چیزی</word>
-      <word>و</word>
-      <word>داد</word>
-      <word>شد.</word>
-      <word>که</word>
-      <word>حوصله</word>
-      <word>دست</word>
-      <word>مساعد</word>
-    </content>
-  </text>
-  <text id="129154">
-    <content>
-      <word>و</word>
-      <word>نگفت</word>
-      <word>جانب</word>
-      <word>به</word>
-      <word>حتی</word>
-      <word>به</word>
-      <word>عنوان</word>
-    </content>
-  </text>
-  <text id="129155">
-    <content>
-      <word>سر</word>
-      <word>از</word>
-      <word>تکان</word>
-      <word>نداشت</word>
-      <word>مختصری</word>
-      <word>تلقی</word>
-      <word>پایش</word>
-    </content>
-  </text>
-  <text id="129156">
-    <content>
-      <word>پسر</word>
-      <word>پاسخی</word>
-      <word>اما</word>
-      <word>و</word>
-      <word>به</word>
-      <word>یا</word>
-      <word>تقریباً</word>
-    </content>
-  </text>
-  <text id="129157">
-    <content>
-      <word>دو</word>
-      <word>نهصد</word>
-      <word>این</word>
-      <word>و</word>
-      <word>قبل،</word>
-      <word>دلار</word>
-      <word>در</word>
-      <word>مشابه</word>
-      <word>بود.</word>
-    </content>
-  </text>
-  <text id="129158">
-    <content>
-      <word>هفده</word>
-      <word>سال</word>
-      <word>مدت</word>
-      <word>میلیارد</word>
-      <word>معادل</word>
-      <word>و</word>
-      <word>میزان</word>
-      <word>میلیون</word>
-    </content>
-  </text>
-  <text id="129159">
-    <content>
-      <word>این</word>
-      <word>طی</word>
-      <word>از</word>
-      <word>نزدیکی</word>
-      <word>تیرگی</word>
-      <word>رابطه</word>
-      <word>گرایید.</word>
-      <word>لوهان</word>
-      <word>داشتند،</word>
-      <word>قبل</word>
-    </content>
-  </text>
-  <text id="129160">
-    <content>
-      <word>دارد.</word>
-      <word>ابراهیم</word>
-      <word>آقای</word>
-      <word>که</word>
-      <word>عهده</word>
-    </content>
-  </text>
-  <text id="129161">
-    <content>
-      <word>پسندیده‌ای</word>
-      <word>گفت‌وگو</word>
-      <word>و</word>
-      <word>نفس</word>
-      <word>پوشش</word>
-      <word>خواسته‌های</word>
-      <word>مطبوعات</word>
-      <word>از</word>
-    </content>
-  </text>
-  <text id="129162">
-    <content>
-      <word>سخن</word>
-      <word>جانب</word>
-      <word>است.</word>
-      <word>و</word>
-      <word>که</word>
-      <word>و</word>
-      <word>امر</word>
-      <word>اکثریت</word>
-    </content>
-  </text>
-  <text id="129163">
-    <content>
-      <word>روزنامه‌هایی</word>
-      <word>رئیس‌جمهورخاتمی</word>
-      <word>مردم</word>
-      <word>پاسخ‌گویی</word>
-      <word>با</word>
-      <word>توقیف</word>
-      <word>می‌دادند،</word>
-      <word>ایراد</word>
-      <word>را</word>
-    </content>
-  </text>
-  <text id="129164">
-    <content>
-      <word>معاون</word>
-      <word>سازمان</word>
-      <word>کهگیلویه</word>
-      <word>استان</word>
-      <word>از</word>
-      <word>پیشگیری</word>
-      <word>مرکز</word>
-      <word>به</word>
-    </content>
-  </text>
-  <text id="129165">
-    <content>
-      <word>راه‌اندازی</word>
-      <word>ارائه</word>
-      <word>از</word>
-      <word>ازدواج</word>
-      <word>این</word>
-      <word>بهزیستی</word>
-      <word>وبویراحمد،</word>
-      <word>جوان</word>
-    </content>
-  </text>
-  <text id="129166">
-    <content>
-      <word>او</word>
-      <word>بی‌وجدان،</word>
-      <word>همه</word>
-      <word>از</word>
-      <word>را</word>
-      <word>مخلوق</word>
-      <word>عجب</word>
-      <word>اگر</word>
-      <word>روی</word>
-    </content>
-  </text>
-  <text id="129167">
-    <content>
-      <word>اول،</word>
-      <word>جهان</word>
-      <word>همان</word>
-      <word>زیبایی</word>
-      <word>و</word>
-      <word>به</word>
-      <word>دارد!</word>
-      <word>ظلم</word>
-    </content>
-  </text>
-  <text id="129168">
-    <content>
-      <word>زشتی،</word>
-      <word>اول</word>
-      <word>می‌کردم.</word>
-      <word>صبری</word>
-      <word>خدا</word>
-      <word>می‌دیدم</word>
-      <word>یکدیگر</word>
-      <word>را</word>
-    </content>
-  </text>
-  <text id="129169">
-    <content>
-      <word>من</word>
-      <word>ویرانه</word>
-      <word>بودم،</word>
-      <word>با</word>
-      <word>یک</word>
-      <word>که</word>
-      <word>جای</word>
-      <word>لحظه</word>
-    </content>
-  </text>
-  <text id="129170">
-    <content>
-      <word>آن‌ها</word>
-      <word>اشکال</word>
-      <word>انواع</word>
-      <word>شد</word>
-      <word>تأثیر</word>
-      <word>نه</word>
-      <word>را</word>
-      <word>منکر</word>
-    </content>
-  </text>
-  <text id="129171">
-    <content>
-      <word>و</word>
-      <word>می‌توان</word>
-      <word>تأثر</word>
-      <word>و</word>
-      <word>تحرک</word>
-      <word>و</word>
-      <word>و</word>
-      <word>می‌توان</word>
-    </content>
-  </text>
-  <text id="129172">
-    <content>
-      <word>آن</word>
-      <word>بر</word>
-      <word>را</word>
-      <word>چهار</word>
-      <word>قبله</word>
-      <word>جبرئیل</word>
-      <word>عمود</word>
-      <word>هم</word>
-    </content>
-  </text>
-  <text id="129173">
-    <content>
-      <word>فرهنگ‌ها</word>
-      <word>را</word>
-      <word>نه</word>
-      <word>تمدن‌ها</word>
-      <word>دائمی</word>
-      <word>انکار</word>
-      <word>و</word>
-      <word>کرد.</word>
-    </content>
-  </text>
-  <text id="129174">
-    <content>
-      <word>نمایندگی</word>
-      <word>در</word>
-      <word>از</word>
-      <word>کاشمر</word>
-      <word>به</word>
-      <word>بجنورد</word>
-      <word>ملی</word>
-    </content>
-  </text>
-  <text id="129175">
-    <content>
-      <word>دوره</word>
-      <word>چهارم</word>
-      <word>بهار</word>
-      <word>از</word>
-      <word>در</word>
-      <word>ضمن</word>
-      <word>مجلس</word>
-    </content>
-  </text>
-  <text id="129176">
-    <content>
-      <word>ناشناس</word>
-      <word>اولیه</word>
-      <word>شهر،</word>
-      <word>داخل</word>
-      <word>در</word>
-      <word>پنجره‌های</word>
-      <word>یکشنبه</word>
-    </content>
-  </text>
-  <text id="129177">
-    <content>
-      <word>به</word>
-      <word>از</word>
-      <word>آتشزای</word>
-      <word>دست‌ساز</word>
-      <word>اعلام</word>
-      <word>پناهگاه</word>
-      <word>ساعات</word>
-    </content>
-  </text>
-  <text id="129178">
-    <content>
-      <word>پرتاب</word>
-      <word>پلیس</word>
-      <word>از</word>
-      <word>این</word>
-      <word>یکی</word>
-      <word>پناهگاه</word>
-      <word>مواد</word>
-    </content>
-  </text>
-  <text id="129179">
-    <content>
-      <word>یادشده،</word>
-      <word>کردند.</word>
-      <word>کرد،</word>
-      <word>عده‌ای</word>
-      <word>روز،</word>
-      <word>داخل</word>
-      <word>روز</word>
+      <line>هشتاد</line>
+      <line>در</line>
+      <line>پیت</line>
+      <line>نیمه‌شب</line>
+      <line>رؤیای</line>
+      <line>پیوست</line>
+      <line>شکسپیر</line>
+      <line>در</line>
     </content>
   </text>
 </textCollection>
