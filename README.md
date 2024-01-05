@@ -24,7 +24,7 @@ The folder structure of the dataset is as follow:
 
 ### Ground Truths
 
-We have used selected phrases from Bijankhan's corpus and Farsi Wikipedia as the ground truths. They are chosen in such a way that has a normal distribution in terms of word counts and includes most of the three consecutive characters in Persian. These ground truths consist of the Persian alphabet and punctuations, but there are no numbers in this version.
+We have used selected phrases from Bijankhan's corpus and Farsi Wikipedia as the ground truths. They are chosen in such a way that has a normal distribution in terms of word counts and includes most of the three consecutive characters in Persian. These ground truths consist of the Persian alphabet, punctuations, numbers and basic mathematical symbols.
 
 Ground truths are saved in a simple custom [XML](https://w3.org/XML/) format.
 
@@ -42,12 +42,12 @@ Ground truths are saved in a simple custom [XML](https://w3.org/XML/) format.
 
 Each handwriting sample is named a Writepad. There are three types of writepads:
 
--   Text: A few sentences with an average of 16 words.
+-   Text: A few sentences with an average of 16 words (contains numbers).
 -   WordGroup: 4-10 lines with an average of 7 lines, each containing 1 word.
 -   WordGroup2: lines containing groups of 2 words.
 -   WordGroup3: lines containing groups of 3 words.
 -   NumberGroup: 14 lines of decimal numbers with basic mathematical symbols.
--   Sign (Not public): Signature.
+-   Sign (not public): Signature.
 
 Writepads are saved in [InkML](https://w3.org/TR/InkML/) format and contain the following properties for each point recorded (Some data may be unavailable based on the user's device):
 
